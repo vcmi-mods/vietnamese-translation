@@ -27,9 +27,9 @@
 		// 3 fonts are disabled since they're unused in vcmi
 		"BIGFONT"  : { "file" : "BeVietnamPro-Regular.ttf", "size" : 22, "blend" : true},
 		//"CALLI10R" : { "file" : "BeVietnamPro-Regular.ttf",       "size" : 10},
-		"CREDITS"  : { "file" : "BeVietnamPro-Regular.ttf", "size" : 28},
+		"CREDITS"  : { "file" : "BeVietnamPro-Regular.ttf", "size" : 28, "blend" : true},
 		//"HISCORE"  : { "file" : "BeVietnamPro-Bold.ttf",       "size" : 13},
-		"MEDFONT"  : { "file" : "BeVietnamPro-Regular.ttf", "size" : 16}, // breaks messages (from map events)
+		"MEDFONT"  : { "file" : "BeVietnamPro-Regular.ttf", "size" : 16, "blend" : true}, // breaks messages (from map events)
 		"SMALFONT" : { "file" : "BeVietnamPro-Regular.ttf",       "size" : 13, "blend" : true},
 		"TIMES08R" : { "file" : "BeVietnamPro-Regular.ttf", "size" :  9, "blend" : true},
 		"TINY"     : { "file" : "BeVietnamPro-Regular.ttf",       "size" : 9, "blend" : true},
