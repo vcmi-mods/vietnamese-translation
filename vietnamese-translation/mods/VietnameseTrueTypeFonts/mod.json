@@ -1,0 +1,19 @@
+{
+	"name" : "Vietnamese True Type Fonts",
+	"description" : "Mod that replaces original bitmap fonts to support Vietnamese fonts",
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "https://github.com/bettergui/BeVietnamPro/tree/main",
+	"modType" : "Graphical",
+	"license" : "SIL Open Font License, Version 1.1",
+	"depends" :
+	[
+		"vcmi"
+	],
+	"conflicts" :
+	[
+		"cove-rus",
+		"wog rus",
+		"True type fonts"
+	]
+}
