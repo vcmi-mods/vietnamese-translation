@@ -1,8 +1,0 @@
-Không thể cấp cho bạn một tướng
-Không thể tuyển. Bạn đã có %d tướng.
-Không thể tuyển. Đã có một tướng ở trong thành.
-Tuyển %s %s
-Chọn %s
-Hội Gián Điệp
-Thù lao
-Ra khỏi quán trọ
