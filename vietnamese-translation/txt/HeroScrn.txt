@@ -1,0 +1,33 @@
+Xem Nhiệm Vụ
+Xem chi tiết %s 
+Các Đặc Điểm Phụ Của Tướng
+Xem chi tiết nhuệ khí cao
+Xem chi tiết nhuệ khí bình thường
+Xem chi tiết nhuệ khí thấp
+Xem chi tiết may mắn cao
+Xem chi tiết may mắn bình thường
+Xem chi tiết may mắn thấp
+Xem Kinh Nghiệm
+Chọn %s
+Trống
+Di chuyển %s
+Trao đổi %s với %s
+Xem Phép Thuật
+Xem chi tiết %s 
+Loại bỏ %s the %s
+Thoát bảng thông tin của tướng
+Bảng thông tin của tướng
+Gộp %s
+Tách %s
+Xem chi tiết %s %s 
+Xem Năng Lượng
+Sắp xếp đội hình 'Lỏng'
+Sắp xếp đội hình "Chật"
+Không sử dụng khả năng Chiến Thuật
+Sử dụng khả năng Chiến Thuật
+Xem chi tiết Kỹ Năng Đặc Biệt
+Bấm vào đây để loại bỏ tướng này
+Sắp xếp đội hình 'Lỏng' là phân bố đều quân của bạn trong trận đấu
+Sắp xếp đội hình 'Chật' là phân bố cho quân của bạn đứng sát nhau trong trận đấu
+Sử dụng khả năng Chiến Thuật sẽ cho phép bạn có thể sắp xếp lại đội hình trong trận đấu
+Bấm vào đây để tách quân này ra làm hai đạo

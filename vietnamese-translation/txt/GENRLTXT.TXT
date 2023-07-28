@@ -1,0 +1,884 @@
+Miscellaneous and Unorganized Game Text
+Can't add manager!
+%s không thể nhận thêm điểm kinh nghiệm ở màn này nữa.
+"{Cấp %d}
+
+{Cấp Sau:} %d
+{Điểm Kinh Nghiệm Hiện Tại:} %d"
+%d/ngày
+hoặc
+%s đã bị thua trận!
+"%s, bạn đã mất thành cuối cùng của mình. Nếu bạn không chiếm một thành khác trong tuần tới thì xem như bạn bị loại khỏi cuộc chơi."
+"%s, tướng của bạn đã ruồng bỏ bạn, còn bản thân bạn thì bị trục xuất khỏi vùng đất này."
+"%s's tướng đã ruồng bỏ anh ta, còn bản thân anh ta thì bị trục xuất khỏi vùng đất này."
+"Không thể lưu trò chơi với tên ""%s""."
+Có lỗi khi mở tập tin %s!
+NEWGAME
+Bạn có chắc chắn muốn loại bỏ quân này không?
+Đến lượt của đội %s's.
+Có lỗi trong việc nhận dữ liệu, bạn có muốn tiếp tục?
+%s the %s
+Chiêu Mộ
+Không còn chỗ ở tiền đồn để chứa thêm quân này.
+Bạn đã có %d tướng đang dưới sự chỉ huy bạn.
+Tướng này không có quân hỗ trợ. Một tướng cần phải có ít nhất một quân thác tùng trước khi đương đầu với thế giới bên ngoài.
+Chất lượng hình ảnh
+Không thể trao đổi món đồ này.
+Bạn có chắc chắn muốn bỏ tướng này đi không?
+Hãy chọn đối tượng được thi triển phép thuật.
+Vị trí dịch chuyển không hợp lệ.
+Dịch chuyển tại đây
+Thi triển %s
+thi triển %s lên %s
+Bạn có muốn rút quân không?
+Bạn chưa có đủ vàng!
+Bạn đã chiếm được báu vật của quân địch!
+Không
+"%s tuyên bố:
+
+""Ta sẽ chấp nhận cho ngươi đầu hàng, để cho ngươi và đội quân của ngươi một lối đi an toàn với cái giá là %d vàng."""
+Nhuệ khí dâng cao khiến %s được tiến thêm lượt nữa. 
+Nhuệ khí suy giảm đã làm cho %s bất động vì quá sợ hãi.
+Hãy tạo một chỗ để chứa %s vào quân đội của bạn.
+Tấn công %s (gây %s điểm sát thương)
+"Bắn %s (còn lại 1 phát bắn, gây %s điểm sát thương)"
+Mô Tả Về Chiến Dịch:
+%s được bật.
+Tên Phòng
+Tên Người Chơi
+Quân
+Quân
+Vận rủi đến với %s 
+Vận may soi sáng lên %s
+Kho Báu
+%s's %s đang bị tấn công!
+Thành
+Tướng
+Màn hình thành
+Bạn không thể xây thêm thuyền được nữa
+Cần Có:
+<Hệ Thống>:
+"{Bản Ùồ Thế Giới}
+
+Đây là phần thu nhỏ của toàn bộ khu vực. Chỉ cần bấm chuột vào một chỗ bất kì, màn hình sẽ tương ứng với bản đồ đó, hoặc bạn có thể đè chuột để di chuyển bản đồ."
+"Vẫn còn một số tướng chưa đi hết lượt, bạn có chắc chắn muốn kết thúc lượt đi của mình?"
+"Việc đào kho báu cần phải mất hết cả ngày vì thế hãy chờ đến ngày hôm sau rồi làm."
+Tướng của bạn không còn đủ chỗ để mang báu vật này!
+"Xin chúc mừng! Sau nhiều giờ đào đất tìm kiếm, cuối cùng bạn cũng phát hiện ra "
+"Không có gì cả...
+Rốt cuộc thì nó ở đâu đây?"
+Hãy quan sát vùng đất bên kia xem!
+Đất Hoang
+Tháng
+Tuần
+Ngày
+Bấm chuột phải lên quân địch để xem chúng.
+ping=%dms
+"Bạn có muốn chơi lại không?
+(Quá trình đang chơi hiện tại của bạn sẽ bị mất)"
+"Bạn có muốn tải phần chơi mới?
+(Quá trình đang chơi hiện tại của bạn sẽ bị mất)"
+Bạn có chắc chắn muốn thoát khỏi trò chơi này không?
+Thi triển phép Cổng Dịch Chuyển không thành công!
+Khởi đầu với:
+ping
+đang ping %s...
+ping mọi người...
+Điểm
+Tự Động Lưu
+{Khởi Đầu Với Tướng}
+{Kỹ Năng Đặc Biệt}
+{Quân Chiêu Mộ}
+{Thành}
+Lỗi gửi tín hiệu. Tiếp tục thử lại??
+Bạn cần phải có ít nhất 2 người để chơi phần chơi đa. Hãy kiểm tra lại những tùy chỉnh mở rộng hoặc chọn một bản đồ mới.
+{Báu Vật Thưởng}
+{Vàng Thưởng}
+{Tài Nguyên Thưởng}
+{Thưởng Ngẫu Nhiên}
+500-1000
+Ma Thuật Tân Thế gây %d sát thương.
+5-10 gỗ / 5-10 quặng
+Báu vật được ngẫu nhiên chọn và sử dụng bởi tướng khởi đầu với bạn.
+Tia Xuyên Phá làm giảm khả năng phòng thủ của đối phương xuống %d điểm.
+"Vào đầu trò chơi bạn sẽ được thưởng 500-1000 vào ngân khố của bạn"
+"Vào đầu trò chơi bạn sẽ được thưởng 5-10 gỗ và 5-10 quặng vào ngân khố của bạn"
+"Bạn sẽ được thưởng ngẫu nhiên vàng hoặc khoáng vật hay một báu vật ở đầu trò chơi."
+Bạn đã bị loại khỏi cuộc chơi!
+"Xin chúc mừng!
+Điểm của bạn sẽ được ghi vào Đài Phong Thần
+
+Hãy nhập tên của bạn."
+Hãy thử tìm kiếm ở bãi đất trống.
+Gửi dữ liệu.
+Nhận dữ liệu
+Chaos.mp2
+{Tướng Ngẫu Nhiên}
+"Một tướng sẽ được ngẫn nhiên chọn để khởi đầu với bạn. Cấp loại của tướng sẽ tướng ứng với phân cấp thành mà bạn xuất phát"
+{Thành Ngẫu Nhiên}
+Bạn sẽ khởi đầu trò chơi với một thành được chọn ngẫu nhiên từ tám loại thành khác nhau.
+"%s đầu hàng, và có được lối đi an toàn với cái giá là %d vàng."
+"The Heroes III: %s CD-ROM không tìm thấy!
+
+%s cần phải có đĩa CD để chơi đơn, chơi phần chiến dịch và tạo phòng chơi mạng.
+
+Nếu bạn muốn tham gia phần chơi đa được lập bởi người khác, không cần phải có đĩa CD và bạn có thể chơi.
+
+Nếu bạn muốn chơi đơn hoặc chơi chiến dịch, hãy thoát ra ngoài và đút đĩa CD %s, trước khi chạy %s."
+Đang tự động lưu trò chơi...
+PLYREXIT
+"{Cửa Sổ Trạng Thái}
+
+Cửa sổ này cung cấp thông tin về trạng thái của tướng, vương quốc của bạn và hiển thị ngày hiện tại. Bấm chuột trái vào đây để chuyển qua các cửa sổ khác."
+Đường Biên
+%s hấp thụ %d năng lượng từ phép.
+Các %s hấp thụ %d năng lượng từ phép.
+Không thể thay đổi thư mục Heroes III. Vui lòng chạy lại chương trình cài đặt.
+Không thể tìm thấy tệp dữ liệu Heroes III. Vui lòng chạy lại chương trình cài đặt.
+"Hỡi người hùng của ta, quân địch đã bị đánh tơi bời, thành trì của bọn chúng giờ đây đổ nát và tang hoang. Chiến dịch trường kì đã thắng lợi trong vinh quang, nay ta đứng trước người như một vì vua, một vị đế vương!
+
+Chúng ta đã giành lấy chiến thắng trong  %d ngày!"
+%d %s trở lại từ cõi chết!
+%d %s trở lại từ cõi chết!
+Một %s bị chết với luồng khí độc hại của %s.
+%d %s bị chết với luồng khí độc hại của %s.
+"%s chủ động phòng thủ,
+gia tăng thêm +%d điểm phòng thủ"
+"%s chủ động phòng thủ,
+gia tăng thêm +%d điểm phòng thủ"
+%s điểm kinh nghiệm
+Thành gần nhất đã có người trú ngụ, thi triển phép thuật không thành công!
+Không có thành nào để thi triển phép thuật lên cả!
+Tướng của bạn bây giờ đã quá mệt mỏi để thi triển phép thuật này. Xin hãy thử lại vào ngày mai.
+Chỉ có tướng ở trong thành mới sử dụng được công trình Town Gate.
+Bạn không có tướng để thi triển phép thuật.
+Tướng của bạn đã thi triển một phép thuật ở lượt này rồi.
+Bạn có muốn bảo toàn lực lượng của %s's với phí tổn là %d vàng?
+Không thể khởi động thiết bị vào - có lỗi xảy ra với chuột hoặc bàn phím.
+Không thể khởi động âm thanh.
+Không thể khởi động chuột.
+Không thể khởi động cửa sổ - có lỗi xảy ra ở bộ nhớ.
+"%s đã phát hiện ra một xưởng thuyền bị bỏ hoang. Tuy nhiên tất cả các đường biển điều bị chặn, cho nên bạn không thể xây thuyền tại đây được."
+Thi triển phép bị thất bại! Tướng của bạn phải ở trên đất liền mới thi triển được phép này.
+"%s ngưng manh động để chờ thời cơ thuận lợi hơn."
+"%s ngưng manh động để chờ thời cơ thuận lợi hơn."
+"%s, Cấp Độ %d %s"
+"%s, người có kiến thức tổng quát về ma thuật, "
+học 
+ và 
+ từ %s
+kháng
+kháng
+"Bằng cách trau dồi thêm chiêu hồn thuật, tướng của bạn có thể gọi hồn %d quân tử trận của đối phương để phục vụ cho bạn dưới hình dáng của quân %s."
+"Bằng cách trau dồi thêm chiêu hồn thuật, tướng của bạn có thể gọi hồn một quân tử trận của đối phương để phục vụ cho bạn dưới hình dáng của quân %s."
+dạy 
+ cho %s
+"{Điểm Năng Lượng}
+
+Muốn thi triển một phép thuật thì bạn cần phải đủ điểm năng lượng tương ứng. Số điểm năng lượng tối đa người chơi đạt được bằng 10 lần chỉ số Kiến Thức, ngoài ra còn có thể gia tăng điểm năng lượng tối đa của bạn qua các sự kiện đặc biệt hoặc một nơi nào đó."
+Âm thanh số hiện tại không có trên hệ thống này.
+Xe Bắn Tên
+Hành trang của bạn đã đầy.
+"Trời ạ, hành trang của bạn không còn chỗ để chứa vật phẩm to như %s được."
+"
+
+%s bị phá hủy."
+"
+
+ %s có đòn tấn công %d và gây %d-%d điểm sát thương."
+Xem thông tin thành.
+Tôi có thể trao đổi với ngài %d %s %s lấy %d %s %s.
+Chợ
+Trạm Giao Dịch
+đơn vị
+đơn vị
+Ngài may lắm mới trao đổi được kèo thơm này đấy. Tôi buôn bán không lấy lãi đâu! Thế ngài có ỳ định trao đổi món nào khác trong gian hàng không?
+"Mời ngài xem gian hàng của chúng tôi. Nếu ngài muốn trao đổi thì xin bấm chuột vào vật phẩm mà ngài muốn trao đổi."
+n/a
+Tôi có thể gửi %s cho quân %s.
+Bạn có muốn viện trợ thêm tài nguyên cho nước khác không?
+"Nếu bạn muốn viện trợ cho nước khác, hãy bấm chuột vào nước bạn muốn viện trợ."
+Vật Phẩm Trao Đổi
+Người Chơi
+%s bảo vệ %s
+%s chỉ có thể thi triển lên quân địch
+Cấp 1
+Cấp 2
+Cấp 3
+Cấp 4
+Cấp 5
+%s chỉ có thể thi triển lên quân đồng minh
+"Điền IP máy chủ.
+(i.e. 220.415.119.223)"
+%s không hoạt động trước %s
+%s được miễn nhiễm trước %s
+Không còn chỗ trống để chứa %s 
+Cơn địa chấn giờ đây sẽ không giúp ích gì cho bạn trừ khi còn tường thành để phá hủy.
+Tướng của bạn đã có %d nhóm quân trong trận đấu và không thể cung cấp thêm được nữa.
+"Tấn công
+Phòng thủ
+Lực phép
+Kiến thức"
+Đòn phép này sẽ không ảnh hưởng đến bất kì quân nào cả!
+"Ma thuật %s gây %d điểm sát thương
+lên tất cả các quân âm binh."
+"Ma pháp gây %d điểm sát thương
+lên mọi quân sống."
+Thi triển Gương Ma Thật thất bại!
+%s %s phép thuật này!
+Tấn Công
+Phòng Thủ
+Phép bay không đủ mạnh để tác dụng lên cả một con thuyền.
+Tốc Độ
+Gia Tăng
+%s thi triển '%s' lên %s.
+%s thi triển '%s'.
+Người chơi màu %s 
+Phát Bắn
+Sát Thg
+Máu còn lại
+Bạn đã hết thời gian. Hãy tiếp tục ở lượt khác.
+Được canh giữ bởi
+"
+
+Tướng của bạn đã học được %s %s."
+"
+
+Tướng bạn có thể học %s %s hoặc %s %s."
+"{Năng Lượng}
+
+%s đang có %d năng lượng ở trong mức năng lượng tối đa %d. Mức năng lượng tối đa là 10 lần số Kiến Thức của bạn. Thỉnh thoảng bạn có thể có nhiều hơn cả tối đa nếu có sự kiện đặc biệt hoặc được hưởng từ một nơi nào đó."
+"Phép này tiêu hao %d năng lượng. Tướng của bạn chỉ có %d năng lượng, vì vậy không thể thi triển được phép thuật."
+"Để huấn luyện và nâng cấp quân đội bài bản, bạn cần phải tốn một ít tài nguyên. Thế bạn có muốn nâng cấp quân nữa không?"
+%s tìm thấy tháp nhiều nhất.
+%s có nhiều báu vật nhất.
+%s có quân đội hùng mạnh nhất.
+%s làm ra được nhiều vàng nhất.
+Báu vật có thể tìm thấy %s.
+"Để sử dụng phép thuật, tướng của bạn cần mua một quyển sách phép với giá 500 vàng. Tuy nhiên bạn không đủ vàng để mua."
+"Để sử dụng phép thuật, tướng của bạn cần mua một quyển sách phép với giá 500 vàng. Bạn có muốn mua nó bây giờ không?"
+"%s cấp %d %s
+với %d báu vật."
+"Sau khi nhận thưởng, người hầu rượu nói với bạn:
+%s"
+Có sẵn: 
+Đánh Giá
+Những yêu cầu cho công trình đã đáp ứng.
+Tấn Công %s
+"Nhờ vào nhãn quan của ưng nhãn, %s đã học được %s"
+Đầy bộ nhớ.
+Không thể xây thêm được do bạn đã xây ở lượt này rồi.
+Mất %s '%s'.
+Mất tướng '%s'.
+"Không thể giành chiến thắng trong %d tháng, %d tuần, %d ngày."
+Mất hết thành và tướng.
+Bắt giữ được %s '%s'.
+Đánh bại tướng '%s'.
+Tìm thấy Thánh Vật.
+Tìm thấy %s.
+Tích lũy được %d %s.
+ Bạn cần phải tiêu diệt tất cả tướng và thành địch.
+Tiêu diệt tất cả tướng và thành của địch.
+Bạn và đồng minh của bạn
+Bạn và đồng minh của bạn
+ và 
+Bạn
+Liên minh quân địch 
+quân địch - 
+"{Điểm Kinh Nghiệm}
+
+Điểm Kinh Nghiệm cho phép tướng của bạn được thăng cấp, gia tăng kỹ năng sơ cấp và thứ cấp."
+"{Tài Nguyên}
+
+Có 7 loại tài nguyên trong Heroes III, chúng được dùng để xây và nâng cấp thành, dùng để mua quân và chiêu mộ tướng. Trong đó: Vàng là phổ biến nhất, hầu như cần thiết cho mọi thứ. Gỗ và Đá thì được sử dụng cho nhiều công trình. Ngọc, Thủy Ngân, Lưu Huýnh, Pha Lê là những tài nguyên nhiệm màu, quỳ hiếm được dùng để xây các công trình vĩ đại và chiêu phục những quân hùng mạnh."
+Đám quân này đang có ỳ định quy phục quân ta.
+"Đám quân này đang có ỳ định quy phục quân ta....
+
+với lệ phí là %d đồng vàng."
+Đám quân yếu ớt này sẽ chạy trốn nếu thấy quân ta.
+Tôi e rằng đám quân này đang mong chờ một cuộc chiến.
+Thật là vô ích khi kiếm Thánh Vật. Hành trang tướng của bạn đã đầy, cho dù bạn có tìm thấy Grail đi nữa thì tướng bạn cũng không thể mang nó theo được.
+Không thể sử dụng ổ đĩa CD-ROM. Nếu không có ổ đĩa CD-ROM, bạn chỉ có thể làm khách trong một ván đấu nhiều người chơi.
+"Xin chúc mừng! Bạn đã chiếm được %s, và giành lấy thắng lợi!"
+"Quân địch đã chiếm lấy %s, và giành lấy thắng lợi!"
+Thành của %s đã bị thất thủ - Giờ đây không còn gì cả!
+Xin chúc mừng! Bạn đã hoàn thành nhiệm vụ tiêu diệt tướng %s của địch. Chiến thắng này nằm trong tay bạn!
+"Tướng %s đã bị thua trận - nhiệm vụ của bạn coi như không còn!"
+"Thời gian quy định cho nhiệm vụ của bạn đã hết. Tất cả đã kết thúc thật rồi!"
+Thu Nhập Hằng Ngày
+Chia %s
+Hủy
+Báu Vật
+Trang Bị
+Hóa mã !!!!
+Vật Phẩm
+Hành Trang
+Thánh Vật có thể tìm thấy ở phía %s thế giới.
+Thánh Vật thể tìm thấy ở phía %s đá ngầm.
+"Quân
+Thưởng"
+"Quân
+Có"
+Tôi có thể trao đổi với ngài món %s với giá %d %s %s.
+Tôi có thể trao đổi với giá %d %s %s cho món %s của ngài.
+Tôi có thể trao đổi với ngài %d %s %s lấy %d %s.
+Ngân Khố
+Báu vật của %s
+Quân của %s
+Chỉ có tướng trong thành mới sử dụng được %s.
+Mua %s
+Không còn đủ chỗ ở tiền đồn để thêm quân.
+Xin chúc mừng! Bạn đã có hơn %d %s trong đội hình. Quân địch nay không còn sự lựa chọn nào ngoài quy phục trước quyền lực của bạn!
+Đối phương đã tập hợp qua %d %s. Bạn không còn lựa chọn nào khác là phải chấp nhận thất bại!
+Xin chúc mừng! Bạn đã thu thập được hơn %d %s vào ngân khố của bạn. Chiến thắng này thuộc về bạn!
+Quân địch đã thu thập được %d %s. Chúng đã giành lấy chiến thắng!
+"Xin chúc mừng! Bạn đã tìm thấy %s, và giành lấy chiến thắng!"
+"Quân địch đã tìm thấy %s, và giành lấy chiến thắng!"
+"Xin chúc mừng! Bạn đã hoàn thành việc nâng cấp thành của mình và giành lấy chiến thắng!"
+"Bằng cách hoàn thành việc nâng cấp thành của họ, quân địch đã giành lấy chiến thắng!"
+"Xin chúc mừng! Bạn đã xây dựng công trình cho Grail và giành lấy chiến thắng!"
+"Quân địch đã xây dựng công trình cho Grail và giành lấy chiến thắng!"
+"Xin chúc mừng! Bạn đã hoàn thành nhiệm vụ tiêu diệt quái thú và giành lấy chiến thắng!"
+"Quân địch đã đánh bại bạn để hoàn thành nhiệm vụ tiêu diệt quái thú của bạn và giành lấy chiến thắng!"
+Xin chúc mừng! Bạn đã chiếm được tất cả mọi nơi cư trú quân. Chiến thắng này thuộc về bạn!
+Quân địch đã chiếm được tất cả mọi nơi cư trú quân. Chiến thắng này thuộc về họ!
+Xin chúc mừng! Bạn đã sở hữu tất cả các mỏ. Chiến thắng này thuộc về bạn!
+Quân địch đã sở hữu tất cả các mỏ và giành lấy chiến thắng!
+"Xin chúc mừng! Bạn đã tiến đến đích, món hàng vẫn còn nguyên vẹn. Chiến thắng này thuộc về bạn!"
+Quân địch đã giao món hàng vẫn còn nguyên vẹn và giành lấy chiến thắng!
+Cho %s di chuyển đến đây.
+Cho %s bay đến đây.
+"Bắn %s (còn lại %d phát bắn, gây %s sát thương)"
+Xem thông tin của %s.
+Không còn phát bắn nào hết!
+Hồi sinh %s
+Triệu hồi quái từ %s
+Thi triển phép thuật lên %s
+Quân địch đã đầu hàng!
+Quân địch đã bỏ chạy!
+Trận chiến thắng lợi vẻ vang!
+"
+
+Nhờ lòng dũng cảm xả thân trên chiến trường, %s nhận được %d điểm kinh nghiệm"
+"%s đầu hàng quân địch và rút quân trong nỗi ô nhục."
+Tên hèn %s chạy trốn khỏi trận chiến.
+"Quân đội của bạn phải chịu sự thất bại trong cay đắng, chính vì thế họ %s đã từ bỏ bạn."
+"Quân đội của bạn đầu hàng quân địch phải di tản trong sự hỗ thẹn."
+Quân đội hèn nhát của bạn đã chạy trốn khỏi chiến trường.
+Quân đội của bạn phải chịu cuộc thất bại ê chề.
+Xe bắn đá phải được trang bị.
+Quân này đã được nâng cấp rồi.
+Bạn không đủ khả năng để nâng cấp quân này.
+Tất cả quân đều đã được nâng cấp.
+Bạn không đủ khả năng để nâng cấp cho tất cả quân này.
+Thành
+Nâng cấp %s.
+Xây dựng công trình Grail tại %s.
+Xây dựng công trình Grail ở bất kì thành nào.
+Đánh bại %s ở phía %s thế giới.
+Tích lũy %d %s vào quân đội của bạn.
+Chiếm hết tất cả các nhà quân.
+Chiếm hết tất cả các mỏ.
+Vận chuyển %s đến %s.
+Không đủ chỗ trống trong hành trang của bạn.
+Đang chờ người chơi khác....
+"Xin lỗi, tín hiệu đường truyền máy bạn đã bị mất."
+Bạn không thể mua thuyền.
+(Đào được)
+Có ai đó đang gian lận!
+Có ai đó đã chỉnh cấp độ tướng của họ!
+%s đã ở trên thuyền.
+Không có đủ chỗ trống để triệu hồi thuyền.
+Không có thuyền nào để triệu hồi.
+"%s tìm cách triệu hồi thuyền nhưng thất bại."
+"%s tìm cách phá hủy thuyền nhưng thất bại."
+%s không đủ thành thục để thi triển phép này được thêm lần nữa trong ngày.
+"%s, được thăng lên cấp %d"
+Báu vật Shackles of War đang được sử dụng trong chiến trường. %s không thể chạy trốn được!
+Báu vật Shackles of War đang được sử dụng trong chiến trường. %s không thể đầu hàng được!
+Cấp độ %d %s
+"
+Gây %d điểm sát thương."
+Miễn Phí
+N/A
+Giá mỗi quân
+Nhà tiên tri %s 
+ (tìm kiếm %s)
+Chợ Đen
+Lưu %s hoàn tất.
+Giờ là lượt đi của %s's.
+(Đã đến)
+(Chưa đến)
+(Đã học)
+(Học %s)
+(Học %s)
+(Đã học)
+%s gửi cho bạn món quà
+%s sẽ trân trọng món quà của %s
+%s sẽ trân trọng những tài nguyên quỳ giá này.
+%s hấp thụ %d điểm sinh khí của %s.
+%s hấp thụ %d điểm sinh khí của %s.
+"
+ và một quân sống lại từ cõi chết."
+"
+ và %d quân sống lại từ cõi chết."
+%s gây sát thương gấp đôi!
+Các %s gây sát thương gấp đôi!
+Một tia chớp giáng xuống %s!
+"Đốt cháy với sự tức giận, %s gây thêm 50%% sát thương lên %s."
+"Đốt cháy với sự tức giận, %s gây thêm 50%% sát thương lên %s."
+"Vết thương trên người %s đang khép lại từ từ và toàn bộ chúng đã tỉnh lại."
+"Vết thương trên người %s đang khép lại từ từ và toàn bộ chúng đã tỉnh lại."
+"{Pha Chiến Thuật}
+
+Tướng nào có khả năng siêu phàm về kỹ năng Chiến Thuật được phép sắp xếp đội hình của mình trước khi bắt đầu trận chiến."
+%s hấp thụ năng lượng từ %s!
+Các %s hấp thụ năng lượng từ %s!
+Cung Thành
+%s gây %d sát thương,
+Các %s gây %d sát thương,
+"
+chết một %s."
+"
+chết %d %s."
+Công	
+Thủ
+Lực
+KThức
+Nhuệ khí
+May mắn
+SThg
+Năng lượng
+Máu
+Máu
+LMinh
+Địch
+Tùy Chỉnh Trận Chiến
+Tốc độ hình ảnh
+Âm lượng nhạc nền
+Hiệu ứng âm thanh
+Chế độ tự động đánh
+Thông tin quân
+Quân
+Phép		  
+Xe Bắn Đá		  
+Lều Cứu Thương		
+Tất cả thống kê		
+Chỉ hiện phép		
+Hệ Thống Ô Lục Giác		
+Vùng Di Chuyển		
+Bóng Chuột		
+Thương Vong		
+Bên Công		
+Bên Thủ		
+Chiến Thắng		
+Thất Bại		
+Bắt đầu lượt tiếp theo.		
+"%s đang có cảm giác rằng sự chênh lệch giữa ta và địch khá lớn.
+
+Bạn có muốn chạy trốn không?"		
+"%s chữa trị %s, hồi phục %d điểm sinh lực."		
+Người chơi cùng bạn hiện đã thoát! Họ sẽ được thay thế bằng máy.
+Người chơi còn lại đã thoát! Bạn đã chiến thắng!
+Xem thống kê của tướng
+Xem thống kê của tướng địch
+Cứu chữa cho %s
+"{Báu Vật}
+
+Nhìn từ xa ngay bãi đất trống, bạn đã phát hiện ra một báu vật cổ. Tuy nhiên nó được canh giữ bởi %s %s. Bạn có muốn chiến đấu với %s để giành lấy báu vật?"
+"Có tin xấu, rằng %s được canh giữ bởi %s %s.
+
+Bạn có muốn chiến đấu với chúng ngay bây giờ không?"
+"Không có %s để chiêu phục.
+"
+"%d %s quy phục quân bạn.
+"
+"Từ thuở xa xưa, thành phố này như là mái nhà của bọn rồng cũng như nơi cất giữ kho báu của bọn chúng, nhưng giờ đây lại tang hoang không một bóng người."
+"%s có ỳ định quy phục bạn, nhưng bạn không đủ điều kiện để giữ họ."
+báu vật
+báu vật
+của mỗi tài nguyên
+tiền đồn
+ Cấu Trúc Bản Đồ Cũ
+"Xin lỗi, người chơi đã thoát trong quá trình gửi tính hiệu. Tạm Biệt!"
+Nâng Cấp Tất Cả Các Quân
+Hạng
+Người Chơi
+Bản Đồ
+Ngày
+"
+Gian lận! + tối đa"
+"Tổng
+Thời Gian"
+"Điểm
+Căn Bản"
+"Độ
+Khó"
+"Tổng
+Điểm"
++1 Cấp
+"
+ĂĂĂCommand Line HelpĂĂĂ
+
+/S0 - disable sound and music
+/I0 - skip the intro
+
+Example:
+
+HEROES3 /S0 /I0
+
+Starts Heroes III with no sound and no intro.
+"
+%s đã tăng thêm một cấp.
+Hiện tại %s ở cấp độ %d %s.
+"Xin hãy điền tên:"
+Có lỗi khi thiết lập kết nối modem. Xin hãy thử lại.
+Phần Modem
+Có lỗi khi tiết lập mã số kết nối. Xin hãy thử lại.
+Phần Mã Số
+Có lỗi khi tạo mã số kết nối. Xin hãy thử lại.
+Trò chơi của tôi
+Mật Khẩu:
+Không thấy phòng chơi nào ở máy chủ!
+"Có lỗi xảy ra khi đang kết nối đến phòng chơi này. Xin hãy thử lại."
+Không tìm thấy ván đấu. Xin hãy thử lại.
+Mật khẩu không hợp lệ!
+Lỗi khi khởi động kết nối TCP/IP. Xin hãy thử lại.
+"Địa chỉ IP của bạn:
+%s"
+Lỗi khi khởi động kết nối IPX. Xin hãy thử lại.
+Mật Khẩu (không bắt buộc):
+Không tìm thấy địa chỉ IP này!
+Bản Đồ Kho Báu
+Mang %s cho %s.
+Có
+Thành Tiền
+Lỗi khi kết nối tới máy chủ.  Xin hãy thử lại!
+Máy
+%s thoát khỏi cuộc chơi.
+Bây giờ bạn là chủ ván đấu!
+Đang chờ người chơi điều khiển từ xa lựa chọn kỹ năng khi thăng cấp....
+Một máy tấn công người chơi điều khiển từ xa. Đang chờ đến khi xong trận....
+thì thầm
+thì thầm với 
+Điểm kinh nghiệm cần để thăng cắp
+Tổng kinh nghiệm trên bệ hiến tế
+Hiến tế báu vật để đổi lấy điểm kinh nghiệm
+Chuyển báu vật lên bệ thờ
+Bệ hiến tế
+"Để hiến tế quân, bạn cần phải di chuyển chúng đến bệ thờ và chọn nút hiến tế"
+Chọn %s
+Bạn khổng thể hiến tế
+Hộp thoại này hiển thị những quân được chọn
+Hiến tế %s
+Quân Số
+Hóa Cốt
+Di chuyển quân sang bên kia để hóa cốt
+Quân được chuyển sang hóa cốt sẽ biến đổi thành Skeletons
+%s sẽ hóa thành %s
+%s đã là quân skeleton
+%s đã là quân skeletons
+Độ Khó Người Chơi
+"%s đã có.
+
+Bạn có muốn ghi đè lên không?"
+Độ Khó
+Tên Bản Đồ:
+Mô Tả Về Bản Đồ:
+Điều Kiện Thắng:
+Điều Kiện Thua:
+Người Chơi
+Hiển thị bản đồ có sẵn
+Hiển thị tùy chỉnh mở rộng
+Đang xử lỳ tập tin bản đồ
+Tập tin bị hư
+Có vấn đề với dữ liệu trong tệp này và Heroes III không thể sử dụng được.
+Vui lòng tải và lưu bản đồ này với Heroes III Editor để cập nhật nó lên phiên bản hiện tại của bản đồ
+Bản đồ này không thể chơi. Vui lòng tải và khắc phục sự cố trong Heroes III Editor trước khi chơi bản đồ này
+Trống
+Không Tên
+Nhận tập tin bản đồ từ máy chủ...
+Kích Cỡ Bản Đồ
+S
+M
+L
+XL
+Tùy Chỉnh Mở Rộng
+"Hãy chọn tùy chỉnh khởi đầu, chế độ chấp, và tên cho từng người chơi."
+"Tên Người Chơi
+Chế Độ Chấp"
+"Thành
+Xuất Phát"
+"Tướng
+Xuất Phát"
+"Thưởng
+Ban Đầu"
+Thời gian mỗi lượt
+Ngẫu Nhiên
+Không
+"Xin lỗi, chủ phòng đã cho khởi động trò chơi, bạn không thể tham gia được!"
+%s tham gia vào cuộc chơi.
+%s thoát khỏi cuộc chơi.
+Có một người chơi không xác định đã rời khỏi trò chơi!
+%s giờ đây là chủ phòng.
+Không có bản đồ để chơi.
+Bạn phải chọn vị trí của mình để bắt đầu trò chơi.
+Ẩn hộp thoại
+Hiện hộp thoại
+Chủ phòng đang chuẩn bị khởi động trò chơi....
+Không mở được tập tin - Video.vid
+Tập tin phim bị lỗi!
+%s ngăn %s thi triển các phép cấp 3 trở lên.
+Những cơn gió lan tỏa từ 'mảnh đất bị nguyền rủa' đã phá hủy năng lượng trên người bạn, khiến bạn không thể thi triển các phép trên cấp 1 ở đây.
+"Do %s đã triệu hồi %s, cho nên những sinh linh khác không thể tiếp viện cho %s được."
+anh ấy
+cô ấy
+%s thuật lại câu thần chú nhưng có vẻ không có tác dụng gì hết.
+Chọn một quân để hồi sinh
+Chọn một quân để hiến tế
+%s kháng %d sát thương
+Các %s kháng %d sát thương
+%s nhận thêm %d sát thương
+Các %s nhận thêm %d sát thương
+Hồi sinh %s
+Hiến tế %s
+Loại vật cản này
+"%s co cụm vì già, và mất %d điểm sinh lực."
+"Các %s co cụm vì già, và mất %d điểm sinh lực."
+%s bất ngờ lâm trọng bệnh!
+Các %s bất ngờ lâm trọng bệnh! 
+Tất cả các phép thuật hữu dụng trên %s đều được hóa giải.
+%s không thể nhìn thấy!
+%s có vẻ như không thể làm gì được nữa.
+%s đã bị hóa thành đá!
+Các %s đã bị hóa thành đá!
+Những chiếc rễ và dây leo đã trói chặt %s xuống mặt đất!
+%s quằn quại trong đau đớn do nọc độc chạy trong huyết quản.
+Các %s quằn quại trong đau đớn do nọc độc chạy trong huyết quản. 
+%s đã bị tê liệt, không thể cử động!
+Các %s đã bị tê liệt, không thể cử động! 
+%s thi triển %s
+Các %s thi triển %s
+ lên %s
+Tùy Chỉnh Hệ Thống
+Tốc Độ Tướng
+Tốc Độ Địch
+Tốc Độ Cuộn Bản Đồ
+Hiện Thị Lộ Trình
+Nhắc Nhở Tướng
+Đánh Nhanh
+Tựa Đề Phim
+Đường Viền CT
+Hoạt Động Sách Phép
+"Bạn có muốn làm điều này không?
+(Quá trình chơi của bạn sẽ bị mất)"
+Khi bạn tiếp cận Vòng Xoáy Năng Lượng, cơ thể của bạn dường như được tiếp thêm nguồn năng lượng mới. Giờ đây chỉ số năng lượng của bạn được tăng thêm gấp đôi.
+"Người mã phu dắt theo một con chiến mã đến gặp bạn. ""Chú chiến mã này sẽ giúp ngài thăng tốc suốt cuộc hành trình. Tuy nhiên sức ngữa sẽ giảm dần do trọng tải, vì thế ngài phải quay lại đây để thay một chú ngựa mới vào đầu tuần."""
+Do nghiên cứu những bức chạm khắc trên Bức Tường Kiến Thức khiến bạn tiếp thu thêm học thức từ các loại phép thuật khác nhau (+1 Kiến Thức).
+Hội Order of Fire đã dạy bạn cách tập trung vào quyền năng ma thuật (+1 Lực Phép).
+Cuộc viếng thăm đến Trường Đào Tạo Chiến Đấu đã giúp bạn hiểu thêm được nhiều kỹ năng mới (+1000 Kinh Nghiệm).
+Do bỏ thời gian tập luyện tại Điện Valhalla khiến bạn học được kỹ năng chiến đấu hữu hiệu hơn (+1 Tấn Công).
+"Tại Cũi Giam Thủ Lĩnh, bạn được những chiến binh lão luyện nơi đây đã dạy cho bạn thêm kỹ năng phòng thủ mới (+1 Phòng Thủ)."
+%s đã xây %s.
+Cộng thêm %d %s đã sẵn sàng để tuyển dụng tại %s
+%s gia tăng hàng tuần
+Số lượng %s gia tăng hàng tuần là %d.
+"
+Lượng gia tăng cơ bản %d"
+"
+
+Nhà lính ngoài %+d"
+Đại Sảnh
+Thoát khỏi Nhà Phép
+Tiền Đồn
+Xây %s
+Không xây %s
+Bạn có muốn biến nơi đây mãi là nhà cho Grail?
+Xây thuyền
+Không xây thuyền
+Thoát
+Lâu Đài
+Trường Học
+"Tiếng chân của bạn đã làm vang vọng khắp đại sảnh vốn hay yên tĩnh của trường học cổ xưa này. Thấp thoáng một vị tu sĩ bước đến và thông báo với bạn rằng khi đến đây, bạn có thể tiếp thu thêm những kiến thức về các chủ đề sau đây."
+Tướng của bạn hiện tại đã học kỹ năng này rồi.
+Tưởng của bạn hiện tại không thể học kỉ năng này.
+Tướng của bạn không thể học thêm bất cứ kỹ năng nào nữa.
+%s %s với giá %d vàng
+"Với một nụ cười tinh tế và lông mày nhô lên, vị giáo sĩ thông báo, ""Thưa ngài học phí cho khóa học %s %s là %d vàng."""
+Mua %s
+"%s, có hiệu lực trong: %d lượt."
+Xem Thế Giới
+Thành
+Tướng
+Báu Vật
+Cổng dịch chuyển
+Cổng
+Mỏ
+Tài Nguyên
+Gỗ
+Thủy Ngân
+Đá
+Lưu Huýnh
+Pha Lê	
+Ngọc	
+Vàng	
+Còn 1 giây nữa là hết lượt đi của bạn.	
+Còn %d giây nữa là hết lượt đi của bạn.	
+Còn 1 phút nữa là hết lượt đi của bạn.	
+Còn %0.1f phút nữa là hết lượt đi của bạn.	
+Người hiện chơi là...	
+"%s tìm thấy %s, và giành lấy chiến thắng!"	
+"%s tìm thấy %s, và giành lấy chiến thắng!"	
+%s đã hết %d %s. Bạn không còn con đường nào khác ngoài đầu hàng!	
+%s đã hết %d %s. Bạn không còn con đường nào khác ngoài đầu hàng!	
+"%s đã hết %d %s, và giành lấy chiến thắng!"	
+%s đã hết %d %s. Chiến thắng giờ đây thuộc về kẻ địch!	
+Xin chúc mừng! %s đã tìm thấy %s. Đội của bạn đã giành lấy chiến thắng!	
+Xin chúc mừng! thành của %s đã hoàn thành tiến độ nâng cấp. Đội của bạn đã giành lấy chiến thắng!	
+"Thành của %s đã hoàn thành tiến độ nâng cấp và giành lấy chiến thắng!"	
+%s đã hoàn thành tiến độ nâng cấp thành. Chiến thắng giờ đây thuộc về kẻ địch!	
+Xin chúc mừng! %s đã xây công trình cho Grail. Đội của bạn đã giành lấy chiến thắng!	
+"%s đã xây công trình cho Grail và giành lấy chiến thắng!"	
+%s đã xây công trình cho Grail. Chiến thắng này thuộc về tay bọn họ!	
+Xin chúc mừng! %s đã hoàn thành nhiệm vụ tiêu diệt quái thú. Đội của bạn đã giành lấy chiến thắng!	
+"%s đã đánh bại bạn để thực hiện nhiệm vụ tiêu diệt quái thú của bạn và giành lấy chiến thắng!"	
+%s đã đánh bại bạn để thực hiện nhiệm vụ tiêu diệt quái thú của bạn. Chiến thắng này thuộc về kẻ địch!	
+Cờ của đội %s's tung bay trên tất cả mọi nơi cư trú quân. Chiến thắng giờ đây thuộc về kẻ địch!	
+Cờ của đội %s's tung bay trên tất cả mọi nơi cư trú quân. Chiến thắng giờ đây thuộc về kẻ địch!	
+Cờ của đội %s's tung bay trên tất cả các mỏ. Chiến thắng giờ đây thuộc về kẻ địch!	
+Cờ của đội %s's tung bay trên tất cả các mỏ. Chiến thắng giờ đây thuộc về kẻ địch!	
+Xin chúc mừng! %s đã vận chuyển món hàng về nguyên vẹn. Đội của bạn đã giành lấy chiến thắng!	
+"%s đã vận chuyển món hàng về nguyên vẹn và giành lấy chiến thắng!"	
+%s đã vận chuyển món hàng về nguyên vẹn. Chiến thắng giờ đây thuộc về kẻ địch!	
+"Xin thứ lỗi, chủ phòng đã rời khỏi trò chơi. Bạn cần phải có đĩa CDROM để tạo chủ phòng cho trò chơi."	
+Hiển thị những trò chơi đã lưu
+Đội %d
+{Đội Hình}
+Đang nhận tín hiệu từ người chơi... Xin chờ trong giây lát...
+Xin chúc mừng! Tất cả kẻ địch của bạn đã bị tiêu diệt! Chiến thắng này nằm trong tay bạn!
+"Tất cả lực lượng của bạn đều bị tiêu diệt và bạn thì bị đẩy khỏi mảnh đất này!"
+Thông Tin Màn Chơi
+Bấm phím ESC để hủy chế độ chơi đơn.
+Không thể mở tập tin - Heroes3.snd
+Tập tin âm thanh bị lỗi!
+"Xin lỗi,  phiên bản của bạn Ạ%s không tương tích với phiên bản của chủ phòng Ạ%s."
+"Việc thiết lập lại Bảng Điểm sẽ tự động xóa hết tất cả thành tích mà bạn đạt được.
+
+Bạn có muốn thiết lập lại Bảng Điểm?"
+"
+%s đã bị phá hủy."
+Đánh bại %s ở %s vùng đất ngầm.
+%s đã thất bại trong việc hoàn thành nhiệm vụ trong thời gian quy định. Bọn họ đã thua cuộc.
+%s đã mất tướng %s. Nhiệm vụ của bạn coi như kết thúc.
+Bạn có muốn chơi phần chơi đã lưu trước?
+Chiến Dịch
+"Sau khi nghe bạn thuật lại huyền thoại về Thánh Vật, người dân nơi đây dường như vẫn còn hoài nghi. Thành phố này không đủ niềm tin, có lẽ bạn nên kiếm thành khác xứng đáng hơn cho công trình Grail."
+Không phép nào hoạt động
+%s triệu hồi %d %s
+"Thứ
+Hạng"
+Hồ chưa cung cấp được gì hết.
+Hồ đã cung cấp %d %s trong tuần này.
+"%s, có hiệu lực: %s."
+đến khi nó di chuyển hoặc chết
+đến đòn đánh tiếp theo
+đến khi hết trận đấu
+"%s sử dụng %s, một báu vật tạo ra sự chết chóc cho tất cả các phép thuật."
+Tiền đồn này có một thứ bùa chú mạnh mẽ có thể triệt tiêu toàn bộ phép thuật.
+"Không tìm thấy trò chơi đã lưu trước đó.
+
+Có lẽ bạn nên quay lại Danh Mục Chính và chọn mục Chơi Mới."
+Hãy chọn đích đến
+Bạn có muốn xóa %s?
+"Vào đầu trò chơi, bạn sẽ nhận được 3-6 pha lê vào trong ngân khố."
+"Vào đầu trò chơi, bạn sẽ nhận được 3-6 ngọc vào trong ngân khố."
+"Vào đầu trò chơi, bạn sẽ nhận được 3-6 thủy ngân vào trong ngân khố."
+"Vào đầu trò chơi, bạn sẽ nhận được 3-6 lưu huýnh vào trong ngân khố."
+3-6 Pha Lê
+3-6 Ngọc
+3-6 Thủy Ngân
+3-6 Lưu Huýnh
+%s đã sử dụng hết năng lượng.
+%s đã sử dụng hết năng lượng.
+Vùng Đất Nguyền Rủa ngăn chặn bạn thi triển tất cả các phép thuật trừ các phép cấp một.
+Một luồng khí chống ma thuật đã ngăn chặn không cho sử dụng phép thuật ở tiền đồn này.
+%s ngăn chặn thi triển tất cả các phép thuật
+Chỉ có thể triệu hồi %s từ xác của quân sống
+%s chết không đủ sức sống để triệu hồi %s
+Những %s chết không đủ sức sống để triệu hồi %s
+Chỉ có quân sống mới có thể hồi sinh.
+%s không đủ sức để hồi sinh %s
+Các %s không đủ sức để hồi sinh %s
+"{Không Đủ Dung Lượng}
+
+Heroes III cần phải có ít nhất 5 MB trống trong ổ đĩa.
+
+Xin hãy tạo ra 5 MB trống trước khi chơi."
+"{Không Đủ Dung Lượng}
+
+Heroes III cần phải có ít nhất 5 MB trống trong ổ đĩa để có thể lưu một ván đấu.
+
+Để xóa các ván đấu được lưu trước đó, chọn và ấn CTRL-DELETE.
+
+Để thoát tạm thời ra ngoài, ấn ALT-TAB để trở lại cửa sổ."
+Để Lại Quân Canh
+%s bất động trong sợ hãi.
+%s bất động trong sợ hãi.
+Phép thuật này sẽ không ảnh hưởng đến ai hết.
+"Cuối cùng, bạn cũng đã có được món báu vật cần thiết để tạo ra Thanh Kiếm. Chẳng bao lâu nữa, thế giới sẽ rung động dưới những bước chân của bạn."
+%s cung cấp mọi phép thuật.
+Khởi đầu với %s
+Khởi đầu với một sớ phép %s
+Khởi đầu với %d %s
+Khởi đầu với %s %s
+Khởi đầu với tướng từ %s
+Khởi đầu với một tướng ngẫu nhiên
+Gỗ và Đá
+"Lưu Huýnh, Thủy Ngân, Pha Lê, và Ngọc"
+Định dạng sai %s
+Chọn chiến dịch Thanh Kiếm Armageddon
+Chọn chiến dịch Sự Hồi Sinh Của Erathia
+Chọn chiến dịch tự tạo
+Trở lại Danh Mục Chính
+Sự đáng sợ toát ra từ %s đã làm cho %s không cử động được.
+"Tìm thấy Heroes III: %s CD-ROM.
+
+Để chơi Heroes III: %s, bạn cần đĩa CD %s.
+
+Nếu bạn muốn tham gia phần chơi đa được lập bởi người khác, không cần phải có đĩa CD và bạn có thể chơi.
+
+Nếu bạn muốn chơi đơn hoặc chơi chiến dịch, hãy thoát ra ngoài và đút đĩa CD %s, trước khi chạy %s."
+Người chủ đang tạo bản đồ ngẫu nhiênẺ
+Đã Hủy Phép
+Bạn đã có tất cả những bộ phận cần thiết để hợp nhất %s. Bạn có muốn hợp nhất báu vật này không?
+Bạn có muốn tháo rời báu vật này không?
+Chọn chiến dịch Bóng Ma Của Tử Thần
+Sorceress
+Yog đã từ bỏ phép thuật hoàn toàn. Kinh nghiệm chiến đấu đủ để anh ta sống tiếp cuộc đời của mình.
+"Xin chúc mừng, bạn đã lấy giành lại được ba món đồ mà bạn cần từ những người anh em man rợ của mình."
+Thiết lập bản đồ ngẫu nhiên
+Hãy chọn các tùy chỉnh để tạo một bản đồ ngẫu nhiên
+Bản đồ ngẫu nhiên
+Chơi một bản đồ ngẫu nhiên được tạo theo sự lựa chọn của bạn
+"Tệp bản đồ hướng dẫn ""tutorial.tut"" bị mất khỏi thư mục bản đồ. Bạn không thể chơi phần hướng dẫn nếu không có tệp này."
+Muốn chơi phần lưu này tất cả các người chơi phải chơi bản %s. Một số người không thể chơi phần lưu này được.
+Muốn chơi bản đồ này tất cả các người chơi phải chơi bản %s. Một số người không thể chơi bản đồ này được.
+Thanh Kiếm Armageddon
+Bóng Ma Của Tử Thần
+Năng lượng thần ký của những phép thuật mạnh mẽ hơn những phép thuật cấp 1 bị đánh bay bởi vùng đất nguyền rủa.
+Bản đồ ngẫu nhiên đã được tạo!
+Không thể tạo Random_Map.H3M ở thư mục dữ liệu.
+Lỗi khi ghi bản đồ vào ổ đĩa.
+Không thể tạo một bản đồ ngẫu nhiên phù hợp với những lựa chọn hiện tại.
+Kích Cỡ Bản Đồ
+Số Người Chơi
+Số Đội Của Người
+Số Máy Chơi
+Số Đội Của Máy
+Nước
+Quái Bản Đồ
+Bản đồ ngẫu nhiên
+Đang Tạo Bản Đồ
+Chỉ có Gelu mới có thể cầm Thanh Kiếm Armageddon.
+Sự Hồi Sinh Của Erathia
+"Xin chúc mừng, bạn đã lấy lại được tất cả ba món báu vật."

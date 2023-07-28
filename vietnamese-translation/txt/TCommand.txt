@@ -1,0 +1,36 @@
+Tách quân %s
+Không thể hợp lại thành đội quân cuối cùng
+Gộp quân %s
+Tách Quân
+Xem %s
+Không thể chuyển đạo quân cuối cùng tới tiền đồn.
+Chuyển %s
+Đổi %s với %s
+Thoát khỏi thành
+Không thể di chuyển tướng đồng đội đến tiền đồn.
+Tổng Quan
+Không có gì
+Chọn %s (ở tiền đồn)
+Xem tướng
+Nhà Phép
+Hội Gián Điệp
+Quán Trọ
+Nhà Thuyền
+Lâu Đài
+Lò Rèn
+Làng
+Tuyển dụng %s
+Thị Trấn
+Thành Phố
+Thủ Đô
+
+Chợ
+Hầm Tài Nguyên
+Pháo Đài
+Thành Trì
+Một nhà quân ở ngoài phải có chủ mới có thể tuyển quân được.
+%s đã mua
+Chọn %s (đang ở đây)
+Chọn %s (quân đã bỏ đi)
+Chọn %s (quân của tướng)
+%s (không thể bỏ)

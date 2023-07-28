@@ -1,0 +1,198 @@
+	Description		
+Name	Basic	Advanced	Expert
+Pathfinding	"{Dò đường Sơ cấp}
+
+Dò đường Sơ cấp giảm sự khó khăn khi đi trên địa hình gồ ghề 25%."	"{Dò đường Thứ cấp}
+
+Dò đường Thứ cấp giảm sự khó khăn khi đi trên địa hình gồ ghề 50%."	"{Dò đường Cao cấp}
+
+Dò đường Cao cấp giảm sự khó khăn khi đi trên địa hình gồ ghề 75%."
+Archery	"{Xạ chiến Sơ cấp}
+
+Xạ chiến Sơ cấp tăng 10% sát thương cho các quân bắn xa."	"{Xạ chiến Thứ cấp}
+
+Xạ chiến Thứ cấp tăng 25% sát thương cho các quân bắn xa."	"{Xạ chiến Cao cấp}
+
+Xạ chiến Cao cấp tăng 50% sát thương cho các quân bắn xa."
+Logistics	"{Hậu cần Sơ cấp}
+
+Hậu cần Sơ cấp tăng 10% điểm di chuyển của tướng khi đi trên đất liền."	"{Hậu cần Thứ cấp}
+
+Hậu cần Thứ cấp tăng 20% điểm di chuyển của tướng khi đi trên đất liền."	"{Hậu cần Cao cấp}
+
+Hậu cần Cao cấp tăng 30% điểm di chuyển của tướng khi đi trên đất liền."
+Scouting	"{Do thám Sơ cấp}
+
+Do thám Sơ cấp tăng 1 bán kính tầm nhìn cho tướng."	"{Do thám Thứ cấp}
+
+Do thám Thứ cấp tăng 2 bán kính tầm nhìn cho tướng."	"{Do thám Cao cấp}
+
+Do thám Cao cấp tăng 3 bán kính tầm nhìn cho tướng."
+Diplomacy	"{Thương thuyết Sơ cấp}
+
+Thương thuyết Sơ cấp cho phép bạn thu phục những quái vật yếu hơn quân đội của bạn và giảm 20% chi phí đầu hàng."	"{Thương thuyết Thứ cấp}
+
+Thương thuyết Thứ cấp cho phép bạn thu phục những quái vật yếu hơn quân đội của bạn và giảm 40% chi phí đầu hàng."	"{Thương thuyết Cao cấp}
+
+Thương thuyết Cao cấp cho phép bạn thu phục những quái vật yếu hơn quân đội của bạn và giảm 60% chi phí đầu hàng."
+Navigation	"{Đi biển Sơ cấp}
+
+Đi biển Sơ cấp tăng 50% điểm di chuyển của tướng khi đi trên biển."	"{Đi biển Thứ cấp}
+
+Đi biển Thứ cấp nhân đôi số điểm di chuyển của tướng khi đi trên biển."	"{Đi biển Cao cấp}
+
+Đi biển Cao cấp tăng 150% điểm di chuyển của tướng khi đi trên biển."
+Leadership	"{Lãnh đạo Sơ cấp}
+
+Lãnh đạo Sơ cấp tăng 1 nhuệ khí cho quân đội của bạn."	"{Lãnh đạo Thứ cấp}
+
+Lãnh đạo Thứ cấp tăng 2 nhuệ khí cho quân đội của bạn."	"{Lãnh đạo Cao cấp}
+
+Lãnh đạo Cao cấp tăng 3 nhuệ khí cho quân đội của bạn."
+Wisdom	"{Học thức Sơ cấp}
+
+Học thức Sơ cấp cho tướng của bạn học phép cấp 3."	"{Học thức Thứ cấp}
+
+Học thức Thứ cấp cho tướng của bạn học phép cấp 4."	"{Học thức Cao cấp}
+
+Học thức Cao cấp cho tướng của bạn học phép cấp 5."
+Mysticism	"{Bí thuật Sơ cấp}
+
+Bí thuật Sơ cấp cho tướng khả năng hồi 2 năng lượng mỗi ngày."	"{Bí thuật Thứ cấp}
+
+Bí thuật Thứ cấp cho tướng khả năng hồi 3 năng lượng mỗi ngày."	"{Bí thuật Cao cấp}
+
+Bí thuật Cao cấp cho tướng khả năng hồi 4 năng lượng mỗi ngày."
+Luck	"{Vận may Sơ cấp}
+
+Vận may Sơ cấp tăng 1 may mắn cho tướng của bạn."	"{Vận may Thứ cấp}
+
+Vận may Thứ cấp tăng 2 may mắn cho tướng của bạn."	"{Vận may Cao cấp}
+
+Vận may Cao cấp tăng 3 may mắn cho tướng của bạn."
+Ballistics	"{Đạn đạo Sơ cấp}
+
+Đạn đạo Sơ cấp cho tướng khả năng điều khiển xe bắn đá, bắn một viên với sát thương lớn hơn."	"{Đạn đạo Thứ cấp}
+
+Đạn đạo Thứ cấp cho tướng khả năng điều khiển xe bắn đá, bắn hai viên với sát thương lớn hơn."	"{Đạn đạo Cao cấp}
+
+Đạn đạo Cao cấp cho tướng khả năng điều khiển xe bắn đá, bắn hai viên với sát thương lớn nhất."
+Eagle Eye	"{Ưng nhãn Sơ cấp}
+
+Ưng nhãn Sơ cấp cho tướng 40% cơ hội học những phép cấp 1 và cấp 2 được dùng trong trận đấu."	"{Ưng nhãn Thứ cấp}
+
+Ưng nhãn Thứ cấp cho tướng 50% cơ hội học những phép từ cấp 3 trở xuống được dùng trong trận đấu."	"{Ưng nhãn Cao cấp}
+
+Ưng nhãn Cao cấp cho tướng 60% cơ hội học những phép từ cấp 4 trở xuống được dùng trong trận đấu."
+Necromancy	"{Chiêu hồn Sơ cấp}
+
+Chiêu hồn Sơ cấp biến 10% quân địch tử trận thành Skeleton."	"{Chiêu hồn Thứ cấp}
+
+Chiêu hồn Thứ cấp biến 20% quân địch tử trận thành Skeleton."	"{Chiêu hồn Cao cấp}
+
+Chiêu hồn Cao cấp biến 30% quân địch tử trận thành Skeleton."
+Estates	"{Tài vận Sơ cấp}
+
+Tăng 125 vàng mỗi ngày."	"{Tài vận Thứ cấp}
+
+Tăng 250 vàng mỗi ngày."	"{Tài vận Cao cấp}
+
+Tăng 500 vàng mỗi ngày."
+Fire Magic	"{Phép lửa Sơ cấp}
+
+Phép lửa Sơ cấp giảm chi phí khi tướng dùng phép lửa."	"{Phép lửa Thứ cấp}
+
+Phép lửa Thứ cấp cho tướng dùng phép lửa mạnh hơn và tốn ít phí hơn."	"{Phép lửa Cao cấp}
+
+Phép lửa Cao cấp cho tướng dùng phép lửa tốn ít phí hơn với hiệu quả cao nhất."
+Air Magic	"{Phép gió Sơ cấp}
+
+Phép gió Sơ cấp giảm chi phí khi tướng dùng phép gió."	"{Phép gió Thứ cấp}
+
+Phép gió Thứ cấp cho tướng dùng phép gió mạnh hơn và tốn ít phí hơn."	"{Phép gió Cao cấp}
+
+Phép gió Cao cấp cho tướng dùng phép gió tốn ít phí hơn với hiệu quả cao nhất."
+Water Magic	"{Phép nước Sơ cấp}
+
+Phép nước Sơ cấp giảm chi phí khi tướng dùng phép nước."	"{Phép nước Thứ cấp}
+
+Phép nước Thứ cấp cho tướng dùng phép nước mạnh hơn và tốn ít phí hơn."	"{Phép nước Cao cấp}
+
+Phép nước Cao cấp cho tướng dùng phép nước tốn ít phí hơn với hiệu quả cao nhất."
+Earth Magic	"{Phép đất Sơ cấp}
+
+Phép đất Sơ cấp giảm chi phí khi tướng dùng phép đất."	"{Phép đất Thứ cấp}
+
+Phép đất Thứ cấp cho tướng dùng phép đất mạnh hơn và tốn ít phí hơn."	"{Phép đất Cao cấp}
+
+Phép đất Cao cấp cho tướng dùng phép đất tốn ít phí hơn với hiệu quả cao nhất."
+Scholar	"{Truyện bá Sơ cấp}
+
+Truyện bá Sơ cấp giúp các tướng trao đổi phép cấp 1 và cấp 2 với nhau."	"{Truyện bá Thứ cấp}
+
+Truyện bá Thứ cấp giúp các tướng trao đổi các phép từ cấp 3 trở xuống với nhau."	"{Truyện bá Cao cấp}
+
+Truyện bá Cao cấp giúp các tướng trao đổi các phép từ cấp 4 trở xuống với nhau."
+Tactics	"{Chiến thuật Sơ cấp}
+
+Chiến thuật Sơ cấp cho tướng sắp xếp lại quân đội trong 3 hàng trước mặt tướng."	"{Chiến thuật Thứ cấp}
+
+Chiến thuật Thứ cấp cho tướng sắp xếp lại quân đội trong 5 hàng trước mặt tướng."	"{Chiến thuật Cao cấp}
+
+Chiến thuật Cao cấp cho tướng sắp xếp lại quân đội trong 7 hàng trước mặt tướng."
+Artillery	"{Pháo binh Sơ cấp}
+
+Pháo binh Sơ cấp cho phép tướng điều khiển xe bắn tên, bắn 2 lần và có 50% cơ hội nhân đôi sát thương."	"{Pháo binh Thứ cấp}
+
+Pháo binh Thứ cấp cho phép tướng điều khiển xe bắn tên, bắn 2 lần và có 75% cơ hội nhân đôi sát thương."	"{Pháo binh Cao cấp}
+
+Pháo binh Cao cấp cho phép tướng điều khiển xe bắn tên, bắn 2 lần với sát thương gấp đôi bình thường."
+Learning	"{Trải nghiệm Sơ cấp}
+
+Trải nghiệm Sơ cấp tăng 5% lượng kinh nghiệm mà tướng đạt được."	"{Trải nghiệm Thứ cấp}
+
+Trải nghiệm Thứ cấp tăng 10% lượng kinh nghiệm mà tướng đạt được."	"{Trải nghiệm Cao cấp}
+
+Trải nghiệm Cao cấp tăng 15% lượng kinh nghiệm mà tướng đạt được."
+Offense	"{Cận chiến Sơ cấp}
+
+Cận chiến Sơ cấp tăng 10% sát thương cận chiến."	"{Cận chiến Thứ cấp}
+
+Cận chiến Thứ cấp tăng 20% sát thương cận chiến."	"{Cận chiến Cao cấp}
+
+Cận chiến Cao cấp tăng 30% sát thương cận chiến."
+Armorer	"{Giáp trụ Sơ cấp}
+
+Giáp trụ Sơ cấp giảm 5% sát thương từ quân địch."	"{Giáp trụ Thứ cấp}
+
+Giáp trụ Thứ cấp giảm 10% sát thương từ quân địch."	"{Giáp trụ Cao cấp}
+
+Giáp trụ Cao cấp giảm 15% sát thương từ quân địch."
+Intelligence	"{Thông thái Sơ cấp}
+
+Thông thái Sơ cấp tăng 25% năng lượng cho tướng."	"{Thông thái Thứ cấp}
+
+Thông thái Thứ cấp tăng 50% năng lượng cho tướng."	"{Thông thái Cao cấp}
+
+Thông thái Cao cấp nhân đôi năng lượng cho tướng."
+Sorcery	"{Ma pháp Sơ cấp}
+
+Ma pháp Sơ cấp tăng 5% sát thương phép của tướng trong trận chiến."	"{Ma pháp Thứ cấp}
+
+Ma pháp Thứ cấp tăng 10% sát thương phép của tướng trong trận chiến."	"{Ma pháp Cao cấp}
+
+Ma pháp Cao cấp tăng 15% sát thương phép của tướng trong trận chiến."
+Resistance	"{Kháng phép Sơ cấp}
+
+Kháng phép Sơ cấp cho quân 5% khả năng kháng phép."	"{Kháng phép Thứ cấp}
+
+Kháng phép Thứ cấp cho quân 10% khả năng kháng phép."	"{Kháng phép Cao cấp}
+
+Kháng phép Cao cấp cho quân 20% khả năng kháng phép."
+First Aid	"{Cứu thương Sơ cấp}
+
+Cứu thương Sơ cấp cho tướng điều khiển lều cứu thương, hồi 50 máu cho quân đầu tiên trong đạo quân được chọn."	"{Cứu thương Thứ cấp}
+
+Cứu thương Thứ cấp cho tướng điều khiển lều cứu thương, hồi 75 máu cho quân đầu tiên trong đạo quân được chọn."	"{Cứu thương Cao cấp}
+
+Cứu thương Cao cấp cho tướng điều khiển lều cứu thương, hồi 100 máu cho quân đầu tiên trong đạo quân được chọn."

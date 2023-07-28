@@ -1,0 +1,159 @@
+Bonus	Bonus	
+(short)	(long)	Right Click Text
+Xạ Chiến	Kỹ năng được hưởng lợi: Xạ Chiến	Tăng 5% hiệu quả của kỹ năng Xạ Chiến sau mỗi cấp.
+Archers	Quân được hưởng lợi: Archers	Tăng kỹ năng Tấn công và Phòng thủ của Archers hoặc Marksmen sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Griffins	Quân được hưởng lợi: Griffins	Tăng kỹ năng Tấn công và Phòng thủ của Griffins hoặc Royal Griffins sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Đi Biển	Kỹ năng được hưởng lợi: Đi Biển	Tăng 5% điểm di chuyển trên biển sau mỗi cấp.
+Tài Vận	Kỹ năng được hưởng lợi: Tài Vận	Tăng 5% hiệu quả của kỹ năng Tài Vận sau mỗi cấp.
+Swordsmen	Quân được hưởng lợi: Swordsmen	Tăng kỹ năng Tấn công và Phòng thủ của Swordsmen hoặc Crusaders sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Xe Bắn Tên	Phương tiện được hưởng lợi: Xe Bắn Tên	Tăng kỹ năng Tấn công và Phòng thủ của Xe Bắn Tên sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Cavaliers	Quân được hưởng lợi: Cavaliers	Tăng kỹ năng Tấn công và Phòng thủ của Cavaliers hoặc Champions sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Cứu Thương	Kỹ năng được hưởng lợi: Cứu Thương	Tăng 5% hiệu quả của kỹ năng Cứu Thương sau mỗi cấp.
+Ban Phước	Phép được hưởng lợi: Ban Phước	"Sử dụng phép Ban Phước với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Suy Yếu	Phép được hưởng lợi: Suy Yếu	"Sử dụng phép Suy Yếu với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Vòng Băng	Phép được hưởng lợi: Vòng Băng	"Sử dụng phép Suy Yếu với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Monks	Quân được hưởng lợi: Monks	Tăng kỹ năng Tấn công và Phòng thủ của Monks hoặc Zealots sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
+Cầu Nguyện	Phép được hưởng lợi: Cầu Nguyện	"Sử dụng phép Cầu Nguyện với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Giáp Trụ	Kỹ năng được hưởng lợi: Giáp Trụ	Tăng 5% hiệu quả của kỹ năng Giáp Trụ sau mỗi cấp.
+Dwarves	Quân được hưởng lợi: Dwarves	Tăng kỹ năng Tấn công và Phòng thủ của Dwarves hoặc Battle Dwarves sau mỗi cấp đạt được kể từ cấp 2 trở lên.
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Dendroids	Quân được hưởng lợi: Dendroids	Tăng kỹ năng Tấn công và Phòng thủ của Dendroid Guards hoặc Soldiers sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Kháng Phép	Kỹ năng được hưởng lợi: Kháng Phép	Tăng 5% hiệu quả của kỹ năng Kháng Phép sau mỗi cấp.
+Elves	Quân được hưởng lợi: Elves	Tăng kỹ năng Tấn công và Phòng thủ của Wood Elves hoặc Grand Elves sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Unicorns	Quân được hưởng lợi: Unicorns	Tăng kỹ năng Tấn công và Phòng thủ của Unicorns hoặc War Unicorns sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Hậu Cần	Kỹ năng được hưởng lợi: Hậu Cần	Tăng 5% hiệu quả của kỹ năng Hậu Cần sau mỗi cấp.
+Tàn Sát	Phép được hưởng lợi: Tàn Sát	"Sử dụng phép Tàn Sát với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Chữa Trị	Phép được hưởng lợi: Chữa Trị	"Sử dụng phép Chữa Trị với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Thông Thái	Kỹ năng được hưởng lợi: Thông Thái	Tăng 5% hiệu quả của kỹ năng Thông Thái sau mỗi cấp.
+Cứu Thương	Kỹ năng được hưởng lợi: Cứu Thương	Tăng 5% hiệu quả của kỹ năng Cứu Thương sau mỗi cấp.
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
+Vận May	Phép được hưởng lợi: Vận May	"Sử dụng phép Vận May với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Băng Tiễn	Phép được hưởng lợi: Băng Tiễn	"Sử dụng phép Băng Tiễn với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Pegasi	Quân được hưởng lợi: Pegasi	Tăng kỹ năng Tấn công và Phòng thủ của Pegasi hoặc Silver Pegasi sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Gargoyles	Quân được hưởng lợi: Gargoyles	Tăng kỹ Tấn công và Phòng thủ của Stone hoặc Obsidian Gargoyles sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Genies	Quân được hưởng lợi: Genies	Tăng kỹ năng Tấn công và Phòng thủ của Genies hoặc Master Genies sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Golems	Quân được hưởng lợi: Golems	Tăng kỹ năng Tấn công và Phòng thủ của Stone hoặc Iron Golems sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Giáp Trụ	Kỹ năng được hưởng lợi: Giáp Trụ	Tăng 5% hiệu quả của kỹ năng Giáp Trụ sau mỗi cấp.
+Xe Bắn Tên	Phương tiện được hưởng lợi: Xe Bắn Tên	Tăng kỹ năng Tấn Công và Phòng Thủ của Xe Bắn Tên sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Nagas	Quân được hưởng lợi: Nagas	Tăng kỹ năng Tấn công và Phòng thủ của Nagas hoặc Naga Queens sau mỗi cấp đạt được kể từ cấp 6 trở lên.
++1 Thủy Ngân	+1 Thủy Ngân mỗi ngày.	Tăng 1 Thủy Ngân mỗi ngày.
+Genies	Quân được hưởng lợi: Genies	Tăng kỹ năng Tấn công và Phòng thủ của Genies hoặc Master Genies sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Thôi Miên	Phép được hưởng lợi: Thôi Miên	"Sử dụng phép Băng Tiễn với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Bí Thuật	Kỹ năng được hưởng lợi: Bí Thuật	Tăng 5% hiệu quả của kỹ năng Bí Thuật sau mỗi cấp.
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
+Vận May	Phép được hưởng lợi: Vận May	"Sử dụng phép Vận May với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Magi	Quân được hưởng lợi: Magi	Tăng kỹ năng Tấn công và Phòng thủ của Magi hoặc Arch Magi sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Sét Chuyền	Phép được hưởng lợi: Sét Chuyền	"Sử dụng phép Sét Chuyền với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Gia Tốc	Phép được hưởng lợi: Gia Tốc	"Sử dụng phép Gia Tốc với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Hell Hounds	Quân được hưởng lợi: Hell Hounds	Tăng kỹ năng Tấn công và Phòng thủ của Hell Hounds hoặc Cerberi sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Efreet	Quân được hưởng lợi: Efreet	Tăng kỹ năng Tấn công và Phòng thủ của Efreet hoặc Efreet Sultans sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Demons	Quân được hưởng lợi: Demons	Tăng kỹ năng Tấn công và Phòng thủ của Demons hoặc Horned Demons sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Imps	Quân được hưởng lợi: Imps	Tăng kỹ năng Tấn công và Phòng thủ của Imps hoặc Familiars sau mỗi cấp đạt được kể từ cấp 1 trở lên.
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Gogs	Quân được hưởng lợi: Gogs	Tăng kỹ năng Tấn công và Phòng thủ của Gogs hoặc Magogs sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Xe Bắn Tên	Phương tiện được hưởng lợi: Xe Bắn Tên	Tăng kỹ năng Tấn Công và Phòng Thủ của Xe Bắn Tên sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Pit Fiends	Quân được hưởng lợi: Pit Fiends	Tăng kỹ năng Tấn công và Phòng thủ của Pit Fiends hoặc Lords sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Thông Thái	Kỹ năng được hưởng lợi: Thông Thái	Tăng 5% hiệu quả của kỹ năng Thông Thái sau mỗi cấp.
+Hỏa Ngục	Phép được hưởng lợi: Hỏa Ngục	"Sử dụng phép Hỏa Ngục với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Bí Thuật	Kỹ năng được hưởng lợi: Bí Thuật	Tăng 5% hiệu quả của kỹ năng Bí Thuật sau mỗi cấp.
+Suy Yếu	Phép được hưởng lợi: Suy Yếu	"Sử dụng phép Suy Yếu với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
++1 Lưu Huýnh	+1 Lưu Huýnh mỗi ngày.	+1 Lưu Huýnh mỗi ngày.
+Khát Máu	Phép được hưởng lợi: Khát Máu	"Sử dụng phép Khát Máu với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Ma Pháp	Kỹ năng được hưởng lợi: Ma Pháp	Tăng 5% hiệu quả của kỹ năng Ma Pháp sau mỗi cấp.
+Cầu Lửa	Phép được hưởng lợi: Cầu Lửa	"Sử dụng phép Cầu Lửa với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Walking Dead	Quân được hưởng lợi: Walking Dead	Tăng kỹ năng Tấn công và Phòng thủ của Walking Dead hoặc Zombies sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Vampires	Quân được hưởng lợi: Vampires	Tăng kỹ năng Tấn công và Phòng thủ của Vampires hoặc Vampire Lords sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Liches	Quân được hưởng lợi: Liches	Tăng kỹ năng Tấn công và Phòng thủ của Liches hoặc Power Liches sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Wights	Quân được hưởng lợi: Wights	Tăng kỹ năng Tấn công và Phòng thủ của Wights hoặc Wraiths sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Black Knights	Quân được hưởng lợi: Black Knights	Tăng kỹ năng Tấn công và Phòng thủ của Black Knights hoặc Dread Knights sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Chiêu Hồn	Kỹ năng được hưởng lợi: Chiêu Hồn	Tăng 5% hiệu quả của kỹ năng Chiêu Hồn sau mỗi cấp.
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Skeletons	Quân được hưởng lợi: Skeletons	Tăng kỹ năng Tấn công và Phòng thủ của Skeletons hoặc Skeleton Warriors sau mỗi cấp đạt được kể từ cấp 1 trở lên.
+Làn Sóng Chết	Phép được hưởng lợi: Làn Sóng Chết	"Sử dụng phép Làn Sóng Chết với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Mưa Thiên Thạch	Phép được hưởng lợi: Mưa Thiên Thạch	"Sử dụng phép Mưa Thiên Thạch với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Ma Pháp	Kỹ năng được hưởng lợi: Ma Pháp	Tăng 5% hiệu quả của kỹ năng Ma Pháp sau mỗi cấp.
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
+Hồi Sinh Quân Ma	Phép được hưởng lợi: Hồi Sinh Quân Ma	"Sử dụng phép Hồi Sinh Quân Ma với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Thạch Bì	Phép được hưởng lợi: Thạch Bì	"Sử dụng phép Thạch Bì với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Chiêu Hồn	Kỹ năng được hưởng lợi: Chiêu Hồn	Tăng 5% hiệu quả của kỹ năng Chiêu Hồn sau mỗi cấp.
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Harpies	Quân được hưởng lợi: Harpies	Tăng kỹ năng Tấn công và Phòng thủ của Harpies hoặc Harpy Hags sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Xe Bắn Tên	Phương tiện được hưởng lợi: Xe Bắn Tên	Tăng kỹ năng Tấn Công và Phòng Thủ của Xe Bắn Tên sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Minotaurs	Quân được hưởng lợi: Minotaurs	Tăng kỹ năng Tấn công và Phòng thủ của Minotaurs hoặc Minotaur Kings sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Beholders	Quân được hưởng lợi: Beholders	Tăng kỹ năng Tấn công và Phòng thủ của Beholders hoặc Evil Eyes sau mỗi cấp đạt được kể từ cấp 2 trở lên.
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Hậu Cần	Kỹ năng được hưởng lợi: Hậu Cần	Tăng 5% hiệu quả của kỹ năng Hậu Cần sau mỗi cấp.
+Manticores	Quân được hưởng lợi: Manticores	Tăng kỹ năng Tấn công và Phòng thủ của Manticores hoặc Scorpicores sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Troglodytes	Quân được hưởng lợi: Troglodytes	Tăng Tấn công và Phòng thủ của Troglodytes và Infernal Troglodytes sau mỗi cấp đạt được kể từ cấp 1 trở lên .
+Hồi Sinh	Phép được hưởng lợi: Hồi Sinh	"Sử dụng phép Hồi Sinh với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Bí Thuật	Kỹ năng được hưởng lợi: Bí Thuật	Tăng 5% hiệu quả của kỹ năng Bí Thuật sau mỗi cấp.
+Ma Pháp	Kỹ năng được hưởng lợi: Ma Pháp	Tăng 5% hiệu quả của kỹ năng Ma Pháp sau mỗi cấp.
+Hồi Sinh	Phép được hưởng lợi: Hồi Sinh	"Sử dụng phép Hồi Sinh với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
+Mưa Thiên Thạch	Phép được hưởng lợi: Mưa Thiên Thạch	"Sử dụng phép Mưa Thiên Thạch với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
++1 Pha Lê	+1 Pha Lê mỗi ngày.	Tăng 1 Pha Lê mỗi ngày.
+Thạch Bì	Phép được hưởng lợi: Thạch Bì	"Sử dụng phép Thạch Bì với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Cyclopes	Quân được hưởng lợi: Cyclopses	Tăng kỹ năng Tấn công và Phòng thủ của Cyclopses hoặc Cyclops Lords sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Xe Bắn Tên	Phương tiện được hưởng lợi: Xe Bắn Tên	Tăng kỹ năng Tấn Công và Phòng Thủ của Xe Bắn Tên sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Orcs	Quân được hưởng lợi: Orcs	Tăng kỹ năng Tấn công và Phòng thủ của Orcs hoặc Orc Chieftains sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Rocs	Quân được hưởng lợi: Rocs	Tăng kỹ năng Tấn công và Phòng thủ của Rocs hoặc Thunderbirds sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Goblins	Quân được hưởng lợi: Goblins	Tăng kỹ năng Tấn công và Phòng thủ của Goblins hoặc Hobgoblins sau mỗi cấp đạt được kể từ cấp 1 trở lên.
+Ogres	Quân được hưởng lợi: Ogres	Tăng kỹ năng Tấn công và Phòng thủ của Ogres hoặc Ogre Magi sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Cận Chiến	Kỹ năng được hưởng lợi: Cận Chiến	Tăng 5% hiệu quả của kỹ năng Cận Chiến sau mỗi cấp.
+Wolf Riders	Quân được hưởng lợi: Wolf Riders	Tăng kỹ năng Tấn công và Phòng thủ của Wolf Riders hoặc Raiders sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Ma Pháp	Kỹ năng được hưởng lợi: Ma Pháp	Tăng 5% hiệu quả của kỹ năng Ma Pháp sau mỗi cấp.
+Ogres	Quân được hưởng lợi: Ogres	Tăng kỹ năng Tấn công và Phòng thủ của Ogres hoặc Ogre Magi sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Hậu Cần	Kỹ năng được hưởng lợi: Hậu Cần	Tăng 5% hiệu quả của kỹ năng Hậu Cần sau mỗi cấp.
+Gia Tốc	Phép được hưởng lợi: Gia Tốc	"Sử dụng phép Gia Tốc với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Chính Xác	Phép được hưởng lợi: Chính Xác	"Sử dụng phép Chính Xác với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Cận Chiến	Kỹ năng được hưởng lợi: Cận Chiến	Tăng 5% hiệu quả của kỹ năng Cận Chiến sau mỗi cấp.
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
++1 Ngọc	+1 Ngọc mỗi ngày.	Tăng 1 Ngọc mỗi ngày.
+Basilisks	Quân được hưởng lợi: Basilisks	Tăng kỹ năng Tấn công và Phòng thủ của Basilisks hoặc Greater Basilisks sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Gnolls	Quân được hưởng lợi: Gnolls	Tăng kỹ năng Tấn công và Phòng thủ của Gnolls hoặc Gnoll Marauders sau mỗi cấp đạt được kể từ cấp 1 trở lên.
+Lizardmen	Quân được hưởng lợi: Lizardmen	Tăng kỹ năng Tấn công và Phòng thủ của Lizardmen hoặc Lizard Warriors sau mỗi cấp đạt được kể từ cấp 2 trở lên.
+Giáp Trụ	Kỹ năng được hưởng lợi: Giáp Trụ	Tazar tăng 5% hiệu quả của kỹ năng Giáp Trụ sau mỗi cấp.
+Gorgons	Quân được hưởng lợi: Gorgons	Tăng kỹ năng Tấn công và Phòng thủ của Gorgons hoặc Mighty Gorgons sau mỗi cấp đạt được kể từ cấp 5 trở lên.
+Serpent Flies	Quân được hưởng lợi: Serpent Flies	Tăng kỹ năng Tấn công và Phòng thủ của Serpent hoặc Dragon Flies sau mỗi cấp đạt được kể từ cấp 3 trở lên.
+Xe Bắn Tên	Phương tiện được hưởng lợi: Xe Bắn Tên	Tăng kỹ năng Tấn Công và Phòng Thủ của Xe Bắn Tên sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Wyverns	Quân được hưởng lợi: Wyverns	Tăng kỹ năng Tấn công và Phòng thủ của Wyverns hoặc Wyvern Monarchs sau mỗi cấp đạt được kể từ cấp 6 trở lên.
+Suy Yếu	Phép được hưởng lợi: Suy Yếu	"Sử dụng phép Suy Yếu với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Bí Thuật	Kỹ năng được hưởng lợi: Bí Thuật	Tăng 5% hiệu quả của kỹ năng Bí Thuật sau mỗi cấp.
+Đi Biển	Kỹ năng được hưởng lợi: Đi Biển	Tăng 5% hiệu quả của kỹ năng Đi Biển sau mỗi cấp.
+Cứu Thương	Kỹ năng được hưởng lợi: Cứu Thương	Tăng 5% hiệu quả của kỹ năng Cứu Thương sau mỗi cấp độ.
+Thạch Bì	Phép được hưởng lợi: Thạch Bì	"Sử dụng phép Thạch Bì với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Ma Pháp	Kỹ năng được hưởng lợi: Ma Pháp	Tăng 5% hiệu quả của kỹ năng Ma Pháp sau mỗi cấp.
+Thông Thái	Kỹ năng được hưởng lợi: Thông Thái	Tăng 5% hiệu quả của kỹ năng Thông Thái sau mỗi cấp.
+Ưng Nhãn	Kỹ năng được hưởng lợi: Ưng Nhãn	Tăng 5% hiệu quả của kỹ năng Ưng Nhãn sau mỗi cấp.
+Psychic Ele.	Quân được hưởng lợi: Psychic Elementals	Psychic/Magic elementals nhận được +3 Công và +3 Thủ.
+Earth Ele.	Quân được hưởng lợi: Earth Elementals	"Earth/Magma elementals nhận được +2 Công, +1 Thủ và +5 SThương."
+Fire Elementals	Quân được hưởng lợi: Fire Elementals	"Fire/Energy elementals nhận được +1 Công, +2 Thủ và +2 SThương."
+Water Ele.	Quân được hưởng lợi: Water Elementals	Water/Ice elementals nhận được +2 Công.
+Psychic Ele.	Quân được hưởng lợi: Psychic Elementals	Psychic/Magic elementals nhận được +3 Công và +3 Thủ.
+Earth Ele.	Quân được hưởng lợi: Earth Elementals	"Earth/Magma elementals nhận được +2 Công, +1 Thủ và +5 SThương."
+Fire Ele.	Quân được hưởng lợi: Fire Elementals	"Fire/Energy elementals nhận được +1 Công, +2 Thủ và +2 SThương."
+Water Ele.	Quân được hưởng lợi:	Water/Ice elementals nhận được +2 Công.
+Tường Lửa	Phép được hưởng lợi: Tường Lửa	Tăng gấp đôi sát thương của phép Tường Lửa.
+Gia Tốc	Phép được hưởng lợi: Gia Tốc	"Sử dụng phép Gia Tốc với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Mũi Tên Ma Thuật	Phép được hưởng lợi: Mũi Tên Ma Thuật	"Khi sử dụng, sát thương của phép Mũi Tên Ma Thuật tăng 50%."
+Thạch Bì	Phép được hưởng lợi: Thạch Bì	"Khi sử dụng, +3 hiệu quả của phép Thạch Bì."
+Khát Máu	Phép được hưởng lợi: Khát Máu	"Sử dụng phép Khát Máu với hiệu quả cao hơn, dựa trên cấp độ của tướng so với cấp độ của mục tiêu (phép sẽ càng có hiệu quả khi sử dụng với các đơn vị yếu hơn)."
+Tia Xuyên Phá	Phép được hưởng lợi: Tia Xuyên Phá	"Khi sử dụng, +2 hiệu quả của phép Tia Xuyên Phá."
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
++350 Vàng	+350 Vàng mỗi ngày	Tăng 350 Vàng mỗi ngày.
+Tốc Độ	Quân được hưởng lợi: Tốc Độ	Quân đội của bạn nhận được +2 Tốc độ.
+Phép Lửa	Kỹ năng được hưởng lợi: CC. Phép Lửa	Khởi đầu với Phép Lửa Cao Cấp.
+Swordsmen	Quân được hưởng lợi: Swordsmen	Tăng kỹ năng Tấn công và Phòng thủ của Swordsmen hoặc Crusaders sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Enchanters	Quân được hưởng lợi: Enchanters	Có thể nâng cấp Monks hoặc Zealots và Magi hoặc Arch Magi thành Enchanters.
+Sharpshooters	Quân được hưởng lợi: Sharpshooters	Có thể nâng cấp Archers hoặc Marksmen và Wood Elves hoặc Grand Elves thành Sharpshooters.
+Behemoths	Quân được hưởng lợi: Behemoths	"Behemoths hoặc Ancient Behemoths nhận được +5 Công, +5 Thủ và +10 SThương."
+Black Knights	Quân được hưởng lợi: Black Knights	"Black Knights hoặc Dread Knights nhận được +5 Công, +5 Thủ và +10 SThương."
+Dragons	Quân được hưởng lợi: Dragons	"Tất cả loài rồng nhận được +5 Công và +5 Thủ."
+Swordsmen	Quân được hưởng lợi: Swordsmen	Tăng kỹ năng Tấn công và Phòng thủ của Swordsmen hoặc Crusaders sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Dragons	Quân được hưởng lợi: Dragons	"Tất cả loài rồng nhận được +5 Công và +5 Thủ."
+Ogres	Quân được hưởng lợi: Ogres	Tăng kỹ năng Tấn công và Phòng thủ của Ogre hoặc Ogre Mage sau mỗi cấp đạt được kể từ cấp 4 trở lên.
+Devils	Quân được hưởng lợi: Devils	"Devils và Arch Devils nhận được +4 Tấn công, +2 Phòng thủ và +1 Tốc độ."
+		 

@@ -1,0 +1,6 @@
+Ballistics Skill Effects		Chance to hit					Damage Inflicted			
+		Keep	Tower	Gate	Wall	Shots	Nothing	1 point	2 points	Sum
+Cấp Kỹ Năng	Không có	5%	10%	25%	50%	1	10%	60%	30%	100%
+ 	Sơ cấp	7%	15%	30%	60%	1	0%	50%	50%	100%
+ 	Thứ cấp	7%	15%	30%	60%	2	0%	50%	50%	100%
+ 	Cao cấp	10%	20%	40%	75%	2	0%	0%	100%	100%

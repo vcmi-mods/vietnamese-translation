@@ -1,0 +1,181 @@
+		
+Wall Section	"Hit Points (tối đa là 3, chỉ có tường, tháp, cổng và nhà chính được sử dụng, không sử dụng phải là 0)"	
+Castle		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2	
+Vọng Lâu	2	
+Cung Thành Chính	0	
+Cung Thành Dưới	0	
+Cung Thành Trên	0	
+
+Rampart		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2	
+Nhà Chính	2	
+Cung Thành Chính	0	
+Cung Thành Dưới	0	
+Cung Thành Trên	0	
+
+Tower		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2	
+Nhà Chính	2	
+Cung Thành Chính	0	
+Cung Thành Dưới	0	
+Cung Thành Trên	0	
+
+Inferno		
+Cầu Treo	0	
+Dây Cầu Treo	0
+Hào	0
+Miệng Hào	0
+Tường Sau	0
+Tháp Trên	2
+Tường Trên	2
+Trụ Trên	0
+Tường Giữa-Trên	2
+Cổng Thành	2
+Tường Giữa-Dưới	2
+Trụ Dưới	0
+Tường Dưới	2
+Tháp Dưới	2
+Nhà Chính	2
+Cung Thành Chính	0
+Cung Thành Dưới	0
+Cung Thành Trên	0	
+
+Necropolis		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2	
+Nhà Chính	2	
+Cung Thành Chính	0	
+Cung Thành Dưới	0	
+Cung Thành Trên	0	
+
+Dungeon		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2	
+Nhà Chính	2	
+Cung Thành Chính	0	
+Cung Thành Dưới	0	
+Cung Thành Trên	0	
+
+Stronghold		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2	
+Nhà Chính	2	
+Cung Thành Chính	0	
+Cung Thành Dưới	0	
+Cung Thành Trên	0	
+
+Fortress		
+Cầu Treo	0	
+Dây Cầu Treo	0
+Hào	0
+Miệng Hào	0
+Tường Sau	0
+Tháp Trên	2
+Tường Trên	2
+Trụ Trên	0
+Tường Giữa-Trên	2
+Cổng Thành	2
+Tường Giữa-Dưới	2
+Trụ Dưới	0
+Tường Dưới	2
+Tháp Dưới	2
+Nhà Chính	2
+Cung Thành Chính	0
+Cung Thành Dưới	0
+Cung Thành Trên	0	
+
+Forge		
+Cầu Treo	0	
+Dây Cầu Treo	0	
+Hào	0	
+Miệng Hào	0	
+Tường Sau	0	
+Tháp Trên	2	
+Tường Trên	2	
+Trụ Trên	0	
+Tường Giữa-Trên	2	
+Cổng Thành	2	
+Tường Giữa-Dưới	2	
+Trụ Dưới	0	
+Tường Dưới	2	
+Tháp Dưới	2
+Nhà Chính	2
+Cung Thành Chính	0
+Cung Thành Dưới	0
+Cung Thành Trên	0

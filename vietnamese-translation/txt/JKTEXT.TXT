@@ -1,0 +1,45 @@
+Hero Window
+Tấn Công 
+Phòng Thủ
+Lực Phép
+Kiến Thức
+{Kỹ Năng}
+{Kinh Nghiệm}
+{Năng Lượng}
+"Nhiệm Vụ"
+"Loại Bỏ
+Tướng"
+Overview Window
+Lượng vàng mỗi ngày:
+Shipyard Window
+Xây một con thuyền mới
+Tài nguyên cần dùng:
+Thieves Guild Window
+Thứ 1
+Thứ 2
+Thứ 3
+Thứ 4
+Thứ 5
+Thứ 6
+Thứ 7
+Thứ 8
+Số thành
+Số tướng
+Vàng
+Gỗ và Quặng
+"TNgân, LHuýnh, PhaLê, Ngọc"
+Tháp báu vật được tìm thấy
+Đồ
+Sức mạnh quân đội
+Thu nhập
+Tướng mạnh nhất
+Đặc trưng
+Quân mạnh nhất
+Tavern Window
+Quán Trọ
+Tướng đã sẵn sàng
+Town Gate Window
+Cổng thành
+Chọn một thành qua cổng.
+Blacksmith Window
+Tài nguyên cần dùng:

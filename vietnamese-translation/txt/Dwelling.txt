@@ -1,0 +1,140 @@
+Quân Giáo	 Quân Giáo cho phép bạn tuyển dụng Pikemen.
+Tháp Cung Thủ	 Tháp Cung Thủ cho phép bạn tuyển dụng Archers.
+Tháp Griffin	 Tháp Griffin cho phép bạn tuyển dụng Griffins.
+Trại Lính	 Trại Lính cho phép bạn tuyển dụng Swordsmen.
+Tu Viện	 Tu Viện cho phép bạn tuyển dụng Monks.
+Bãi Tập Luyện	 Bãi Tập Luyện cho phép bạn tuyển dụng Cavaliers.
+Cổng Thiên Đường	 Cổng Thiên Đường cho phép bạn tuyển dụng Angels.
+NC. Quân Giáo	 Quân Giáo cho phép bạn tuyển dụng Halberdiers.
+NC. Tháp Cung Thủ	 Tháp Cung Thủ cho phép bạn tuyển dụng Marksmen.
+NC. Tháp Griffin	 Tháp Griffin cho phép bạn tuyển dụng Royal Griffins.
+NC. Trại Lính	 Trại Lính cho phép bạn tuyển dụng Crusaders.
+NC. Tu Viện	 Tu Viện cho phép bạn tuyển dụng Zealots.
+NC. Bãi Tập Luyện	 Bãi Tập Luyện cho phép bạn tuyển dụng Champions.
+NC. Cổng Thiên Đường	 Cổng Thiên Đường cho phép bạn tuyển dụng Arch Angels.
+Chuồng Centaur	 Chuồng Centaur cho phép bạn tuyển dụng Centaurs.
+Nhà Tranh Người Lùn	 Nhà Tranh Người Lùn cho phép bạn tuyển dụng Dwarves.
+Vườn Tược	 Vườn Tược cho phép bạn tuyển dụng Wood Elves.
+Dòng Suối Mê Hoặc	 Dòng Suối Mê Hoặc cho phép bạn tuyển dụng Pegasi.
+Khung Cây	 Khung Cây cho phép bạn tuyển dụng Dendroid Guards.
+Rừng Ký Lân	 Rừng Ký Lân cho phép bạn tuyển dụng Unicorns.
+Vách Đá Rồng	 Vách Đá Rồng cho phép bạn tuyển dụng Green Dragons.
+NC. Chuồng Centaur	 Chuồng Centaur cho phép bạn tuyển dụng Centaur Captains.
+NC. Nhà Tranh Người Lùn	 Nhà Tranh Người Lùn cho phép bạn tuyển dụng Battle Dwarves.
+NC. Vườn Tược	 Vườn Tược cho phép bạn tuyển dụng Grand Elves.
+NC. Dòng Suối Mê Hoặc	 Dòng Suối Mê Hoặc cho phép bạn tuyển dụng Silver Pegasi.
+NC. Khung Cây	 Khung Cây cho phép bạn tuyển dụng Dendroid Soldiers.
+NC. Rừng Ký Lân	 Rừng Ký Lân cho phép bạn tuyển dụng War Unicorns.
+NC. Vách Đá Rồng	 Vách Đá Rồng cho phép bạn tuyển dụng Gold Dragons.
+Phân Xưởng	 Phân Xưởng cho phép bạn tuyển dụng Gremlins.
+Ụ Quân Sự	 Ụ Quân Sự cho phép bạn tuyển dụng Stone Gargoyles.
+Xưởng Golem	 Xưởng Golem cho phép bạn tuyển dụng Stone Golems.
+Tháp Pháp Sư	 Tháp Pháp Sư cho phép bạn tuyển dụng Magi.
+Ngôi Đền Mơ Ước	 Ngôi Đền Mơ Ước cho phép bạn tuyển dụng Genies.
+Ngôi Lều Vàng	 Ngôi Lều Vàng cho phép bạn tuyển dụng Nagas.
+Ngôi Đền Mây	 Ngôi Đền Mây cho phép bạn tuyển dụng Giants.
+NC. Phân Xưởng	 Phân Xưởng cho phép bạn tuyển dụng Master Gremlins.
+NC. Ụ Quân Sự	 Ụ Quân Sự cho phép bạn tuyển dụng Obsidian Gargoyles.
+NC. Xưởng Golem	 Xưởng Golem cho phép bạn tuyển dụng Iron Golems.
+NC. Tháp Pháp Sư	 Tháp Pháp Sư cho phép bạn tuyển dụng Arch Magi.
+NC. Ngôi Đền Mơ Ước	 Ngôi Đền Mơ Ước cho phép bạn tuyển dụng Master Genies.
+NC. Ngôi Lều Vàng	 Ngôi Lều Vàng cho phép bạn tuyển dụng Naga Queens.
+NC. Ngôi Đền Mây	 Ngôi Đền Mây cho phép bạn tuyển dụng Titans.
+Lò Luyện Imp	 Lò Luyện Imp cho phép bạn tuyển dụng Imps.
+Căn Phòng Tội Lỗi	 Căn Phòng Tội Lỗi cho phép bạn tuyển dụng Gogs.
+Cũi Chó	 Cũi Chó cho phép bạn tuyển dụng Hell Hounds.
+Cánh Cổng Quỷ Dữ	 Cánh Cổng Quỷ Dữ cho phép bạn tuyển dụng Demons.
+Hố Địa Ngục	 Hố Địa Ngục cho phép bạn tuyển dụng Pit Fiends.
+Hồ Lửa	 Hồ Lửa cho phép bạn tuyển dụng Efreet.
+Lâu Đài Bị Bỏ Rơi	 Lâu Đài Bị Bỏ Rơi cho phép bạn tuyển dụng Devils.
+NC. Lò Luyện Imp	 Lò Luyện Imp cho phép bạn tuyển dụng Familiars.
+NC. Căn Phòng Tỗi Lỗi	 Căn Phòng Tỗi Lỗi cho phép bạn tuyển dụng Magogs.
+NC. Cũi Chó	 Cũi Chó cho phép bạn tuyển dụng Cerberi.
+NC. Cánh Cổng Quỷ Dữ	 Cánh Cổng Quỷ Dữ cho phép bạn tuyển dụng Horned Demons.
+NC. Hố Địa Ngục	 Hố Địa Ngục cho phép bạn tuyển dụng Pit Lords.
+NC. Hồ Lửa	 Hồ Lửa cho phép bạn tuyển dụng Efreet Sultans.
+NC. Lâu Đài Bị Bỏ Rơi	 Lâu Đài Bị Bỏ Rơi cho phép bạn tuyển dụng Arch Devils.
+Ngôi Đền Ghê Tởm	 Ngôi Đền Ghê Tởm cho phép bạn tuyển dụng Skeletons.
+Nghĩa Địa	 Nghĩa Địa cho phép bạn tuyển dụng Walking Dead.
+Lăng Mộ Linh Hồn	 Lăng Mộ Linh Hồn cho phép bạn tuyển dụng Wights.
+Nhà Vampire	 Nhà Vampire cho phép bạn tuyển dụng Vampires.
+Lăng Tẩm	 Lăng Tẩm cho phép bạn tuyển dụng Liches.
+Ngôi Nhà Bòng Tối	 Ngôi Nhà Bòng Tối cho phép bạn tuyển dụng Black Knights.
+Vòm Rồng	 Vòm Rồng cho phép bạn tuyển dụng Bone Dragons.
+NC. Ngôi Đền Ghê Tởm	 Ngôi Đền Ghê Tởm cho phép bạn tuyển dụng Skeleton Warriors.
+NC. Nghĩa Địa	 Nghĩa Địa cho phép bạn tuyển dụng Zombies.
+NC. Lăng Mộ Linh Hồn	 Lăng Mộ Linh Hồn cho phép bạn tuyển dụng Wraiths.
+NC. Nhà Vampire	 Nhà Vampire cho phép bạn tuyển dụng Vampire Lords.
+NC. Lăng Tẩm	 Lăng Tẩm cho phép bạn tuyển dụng Power Liches.
+NC. Ngôi Nhà Bòng Tối	 Ngôi Nhà Bòng Tối cho phép bạn tuyển dụng Dread Knights.
+NC. Vòm Rồng	 Vòm Rồng cho phép bạn tuyển dụng Ghost Dragons.
+Nơi Nhốt Thú Săn	 Nơi Nhốt Thú Săn cho phép bạn tuyển dụng Troglodytes.
+Chuồng Harpy	 Chuồng Harpy cho phép bạn tuyển dụng Harpies.
+Cột Mắt	 Cột Mắt cho phép bạn tuyển dụng Beholders.
+Nhà Thờ Câm Lặng	 Nhà Thờ Câm Lặng cho phép bạn tuyển dụng Medusas.
+Mê Cung	 Mê Cung cho phép bạn tuyển dụng Minotaurs.
+Hang Ổ Manticore	 Hang Manticore cho phép bạn tuyển dụng Manticores.
+Hang Rồng	 Hang Rồng cho phép bạn tuyển dụng Red Dragons.
+NC. Nơi Nhốt Thú Săn	 Nơi Nhốt Thú Săn cho phép bạn tuyển dụng Infernal Troglodytes.
+NC. Chuồng Harpy	 Chuồng Harpy cho phép bạn tuyển dụng Harpy Hags.
+NC. Cột Mắt	 Cột Mắt cho phép bạn tuyển dụng Evil Eyes.
+NC. Câm Lặng	 Nhà Thờ Câm Lặng cho phép bạn tuyển dụng Medusa Queens.
+NC. Mê Cung	 Mê Cung cho phép bạn tuyển dụng Minotaur Kings.
+NC. Hang Manticore	 Hang Manticore cho phép bạn tuyển dụng Scorpicores.
+NC. Hang Rồng	 Hang Rồng cho phép bạn tuyển dụng Black Dragons.
+Trại Goblin	 Trại Goblin cho phép bạn tuyển dụng Goblins.
+Bãi Rào Sói	 Bãi Rào Sói cho phép bạn tuyển dụng Wolf Riders.
+Tháp Orc	 Tháp Orc cho phép bạn tuyển dụng Orcs.
+Pháo Lũy Ogre	 Pháo Lũy Ogre cho phép bạn tuyển dụng Ogres.
+Vực Tổ Chim	 Vực Tổ Chim cho phép bạn tuyển dụng Rocs.
+Hang Cyclop	 Hang Cyclop cho phép bạn tuyển dụng Cyclopses.
+Hang Ổ Behemoth	 Hang Ổ Behemoth cho phép bạn tuyển dụng Behemoths.
+NC. Trại Goblin	 Trại Goblin cho phép bạn tuyển dụng Hobgoblins.
+NC. Bãi Rào Sói	 Bãi Rào Sói cho phép bạn tuyển dụng Wolf Raiders.
+NC. Tháp Orc	 Tháp Orc cho phép bạn tuyển dụng Orc Chieftains.
+NC. Pháo Lũy Ogre	 Pháo Lũy Ogre cho phép bạn tuyển dụng Ogre Magi.
+NC. Vực Tổ Chim	 Vực Tổ Chim cho phép bạn tuyển dụng Thunderbirds.
+NC. Hang Cyclop	 Hang Cyclop cho phép bạn tuyển dụng Cyclops Kings.
+NC. Hang Ổ Behemoth	 Hang Ổ Behemoth cho phép bạn tuyển dụng Ancient Behemoths.
+Lều Gnoll	 Lều Gnoll cho phép bạn tuyển dụng Gnolls.
+Hang Thằn Lằn	 Hang Thằn Lằn cho phép bạn tuyển dụng Lizardmen.
+Tổ Chuồn Chuồn	 Tổ Chuồn Chuồn cho phép bạn tuyển dụng Serpent Flies.
+Hố Basilisk	 Hố Basilisk cho phép bạn tuyển dụng Basilisks.
+Hang Ổ Gorgon	 Hang Ổ Gorgon cho phép bạn tuyển dụng Gorgons.
+Tổ Wyvern	 Tổ Wyvern cho phép bạn tuyển dụng Wyverns.
+Hồ Hydra	 Hồ Hydra cho phép bạn tuyển dụng Hydras.
+NC. Lều Gnoll	 Lều Gnoll cho phép bạn tuyển dụng Gnoll Marauders.
+NC. Hang Thằn Lằn	 Hang Thằn Lằn cho phép bạn tuyển dụng Lizard Warriors.
+NC. Tổ Chuồn Chuồn	 Tổ Chuồn Chuồn cho phép bạn tuyển dụng Dragon Flies.
+NC. Hố Basilisk	 Hố Basilisk cho phép bạn tuyển dụng Greater Basilisks.
+NC. Hang Ổ Gorgon	 Hang Ổ Gorgon cho phép bạn tuyển dụng Mighty Gorgons.
+NC. Tổ Wyvern	 Tổ Wyvern cho phép bạn tuyển dụng Wyvern Monarchs.
+NC. Hồ Hydra	 Hồ Hydra cho phép bạn tuyển dụng Chaos Hydras.
+Đèn Chiếu	 Đèn Chiếu cho phép bạn tuyển dụng Pixies.
+Đền Gió	 Đền Gió cho phép bạn tuyển dụng Air Elementals.
+Đền Nước	 Đền Nước cho phép bạn tuyển dụng Water Elementals.
+Đền Lửa	 Đền Lửa cho phép bạn tuyển dụng Fire Elementals.
+Đền Đất	 Đền Đất cho phép bạn tuyển dụng Earth Elementals.
+Đền Tâm Linh	 Đền Tâm Linh cho phép bạn tuyển dụng Psychic Elementals.
+Giàn Thiêu	 Giàn Thiêu cho phép bạn tuyển dụng Fire Birds.
+NC. Đèn Chiếu	 Đén Chiếu cho phép bạn tuyển dụng Sprites.
+Đền Sét 	 Đền Sét cho phép bạn tuyển dụng Storm Elementals.
+Đền Băng	 Đền Băng cho phép bạn tuyển dụng Ice Elementals.
+Đền Năng Lượng	 Đền Năng Lượng cho phép bạn tuyển dụng Energy Elementals.
+Đền Dung Nham	 Đền Dung Nham cho phép bạn tuyển dụng Magma Elementals.
+Đền Phép Thuật	 Đền Phép Thuật cho phép bạn tuyển dụng Magic Elementals.
+NC. Giàn Thiêu	 Giàn Thiêu cho phép bạn tuyển dụng Phoenixes .
+Nhà Quân Cấp 1	Cho phép bạn tuyển dụng Quân Cấp 1.
+Nhà Quân Cấp 2	Cho phép bạn tuyển dụng Quân Cấp 2.
+Nhà Quân Cấp 3	Cho phép bạn tuyển dụng Quân Cấp 3.
+Nhà Quân Cấp 4	Cho phép bạn tuyển dụng Quân Cấp 4.
+Nhà Quân Cấp 5	Cho phép bạn tuyển dụng Quân Cấp 5.
+Nhà Quân Cấp 6	Cho phép bạn tuyển dụng Quân Cấp 6.
+Nhà Quân Cấp 7	Cho phép bạn tuyển dụng Quân Cấp 7.
+Nhà Quân Cấp 1 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 1 Nâng Cấp.
+Nhà Quân Cấp 2 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 2 Nâng Cấp.
+Nhà Quân Cấp 3 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 3 Nâng Cấp.
+Nhà Quân Cấp 4 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 4 Nâng Cấp.
+Nhà Quân Cấp 5 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 5 Nâng Cấp.
+Nhà Quân Cấp 6 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 6 Nâng Cấp.
+Nhà Quân Cấp 7 Nâng Cấp	Cho phép bạn tuyển dụng Quân Cấp 7 Nâng Cấp.

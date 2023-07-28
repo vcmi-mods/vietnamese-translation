@@ -1,0 +1,110 @@
+Hải Đăng	Hải Đăng tăng điểm di chuyển cho tất cả các con thuyền của bạn.	
+Pháo đài Griffin	Tăng 3 Griffin mỗi tuần.	
+Pháo đài Griffin	Tăng 3 Royal Griffin mỗi tuần.	
+Xưởng Thuyền	Xưởng Thuyền cho phép bạn mua thuyền.	
+Chuồng Ngựa	Chuồng Ngựa tăng điểm di chuyển cho tướng ở trong thành.	
+Hội Ái Hữu	"Khi thủ thành, +2 Nhuệ Khí cho đội quân của bạn."	
+		
+		
+		
+Người Khổng Lồ	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và tăng 2 Nhuệ Khí cho tất cả các tướng đồng minh."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 gỗ và 1 đá mỗi ngày.	
+Ao Thần Bí	Ao Thần Bí cung cấp một lượng tài nguyên nhỏ sau mỗi tuần.	
+Hội Người Đào Vàng	Hội Người Đào Vàng tăng 4 Dwarf mỗi tuần.	
+Hội Người Đào Vàng	Hội Người Đào Vàng tăng 4 Battle Dwarf mỗi tuần.	
+		
+Suối May Mắn	Suối May Mắn tăng 2 May Mắn cho tướng bạn khi thủ thành.	
+Kho Bạc	Kho Bạc tăng 10% số lượng vàng mà bạn có vào ngày đầu tuần.	
+		
+Cây Con	Tăng 2 Dendroid Guard mỗi tuần.	
+Cây Con	Tăng 2 Dendroid Soldier mỗi tuần.	
+Linh Hồn Canh Gác	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và tăng 2 May Mắn cho tất cả các tướng đồng minh."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 pha lê mỗi ngày.	
+Nhà Buôn Đồ	"Với một lượng phí không đáng kể, bạn có thể mua đồ từ Nhà Buôn Đồ."	
+Nhà Điêu Khắc	Tăng 4 Stone Gargoyle mỗi tuần.	
+Nhà Điêu Khắc	Tăng 4 Obsidian Gargoyle mỗi tuần.	
+		
+Tháp Canh Phòng	Tháp Canh Phòng mở rộng tầm nhìn xung quanh thành.	
+Thư Viện	Thư Viện cung cấp thêm phép cho Nhà Phép.	
+Bức Tường Kiến Thức	Bức Tường Kiến Thức tăng 1 Kiến Thức cho tất cả những tướng của bạn qua thành.	
+		
+		
+Khinh Khí Cầu	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày, mở toàn bộ bản đồ và tăng 15 Kiến Thức cho tất cả những tướng thủ thành (chỉ tăng khi thủ thành, mất đi khi tướng ra khỏi thành)."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 ngọc mỗi ngày.	
+		
+Vũng Sinh Nở	Tăng 8 Imp mỗi tuần.	
+Vũng Sinh Nở	Tăng 8 Familiar mỗi tuần.	
+		
+Đám Mây Lưu Huýnh	Đám Mây Lưu Huýnh tăng 2 Lực Phép cho tướng khi thủ thành.	
+Cổng Thành	Cho phép tướng di chuyển giữa các thành Inferno đã xây Cổng Thành (thành muốn đến phải không có tướng đứng ở cổng).	
+Phẩm Cấp Của Lửa	Phẩm Cấp Của Lửa tăng 1 Lực Phép cho tất cả các tướng đến thành.	
+Cũi	Tăng 3 Hell Hound mỗi tuần.	
+Cũi	Tăng 3 Cerberus mỗi tuần.	
+Thần Lửa	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày. Những tuần sau đó sẽ là những tuần có lợi cho Imp."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 thủy ngân mỗi ngày.	
+Vỏ Bọc Bóng Tối	Vỏ Bọc Bóng Tối che dấu thành của bạn với các người chơi khác mãi mãi.	
+Nấm Mồ	Tăng 6 Skeleton mỗi tuần.	
+Nấm Mồ	Tăng 6 Skeleton Warrior mỗi tuần.	
+Xưởng Thuyền	Xưởng Thuyền cho phép bạn mua thuyền.	
+Máy Gọi Hồn	Máy Gọi Hồn tăng hiệu quả kỹ năng Chiêu Hồn của tất cả các tướng (có kỹ năng Chiêu Hồn) thêm 10%.	
+Vực Chuyển Hóa	Vực Chuyển Hóa cho phép bạn chuyển đổi bất cứ quân nào trở thành Skeleton.	
+		
+		
+		
+Ngục Giam Linh Hồn	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và tăng hiệu quả kỹ năng Chiêu Hồn của tất cả các tướng đồng minh thêm 20%."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 gỗ và 1 đá mỗi ngày.	
+Nhà Buôn Đồ	"Với một lượng phí không đáng kể, bạn có thể mua đồ từ Nhà Buôn Đồ."	
+Vòng Nấm	Tăng 7 Trolodyte mỗi tuần.	
+Vòng Nấm	Tăng 7 Infernal Trolodyte mỗi tuần.	
+		
+Vòng Xoáy Năng Lượng	Vòng Xoáy Năng Lượng nhân đôi năng lượng cho những tướng ở trong thành và ở tiền đồn.	
+Cổng Triệu Hồi	"Với Cổng Triệu Hồi, bạn có thể tuyển dụng quân từ nhà quân chiếm được trên bản đồ."	
+Trg Đào Tạo Chiến Đấu	Trường Đào Tạo Chiến Đấu tăng 1000 kinh nghiệm cho mỗi tướng đi qua thành (một lần).	
+		
+		
+Thần Bảo Vệ Đất	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày mở toàn bộ bản đồ và tăng 12 Lực Phép cho tướng khi thủ thành."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 lưu huýnh mỗi ngày.	
+Đường Hầm Chạy Trốn	Đường Hầm Chạy Trốn cho phép tướng thủ thành có thể chạy trốn.	
+Phòng Ăn Tập Thể	Tăng 8 Goblin mỗi tuần.	
+Phòng Ăn Tập Thể	Tăng 8 Hobgoblin mỗi tuần.	
+		
+Hội Buôn Bán Tự Do	Bạn có thể trao đổi quân với tài nguyên tại đây.	
+Xưởng Xe Bắn Tên	Cung cấp cho đội quân của bạn Xe Bắn Tên.	
+Điện Valhalla	Điện Valhalla tăng 1 Tấn Công cho tất cả những tướng đến thành.	
+		
+		
+Lá Cờ Thủ Lĩnh	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và tăng 20 Tấn Công cho tướng ở tiền đồn khi thủ thành."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 gỗ và 1 đá mỗi ngày.	
+Cũi Giam Thủ Lĩnh	Cũi Giam Thủ Lĩnh tăng 1 Phòng Thủ cho tất cả các tướng đến thành.	
+Doanh Trại Thủ Lĩnh	Tăng 6 Gnoll mỗi tuần.	
+Doanh Trại Thủ Lĩnh	Tăng 6 Gnoll Marauder mỗi tuần.	
+Xưởng Thuyền	Xưởng Thuyền cho phép bạn mua thuyền.	
+Vết Khắc Sợ Hãi	Doanh Trại Thủ Lĩnh tăng 2 Phòng Thủ cho tướng khi thủ thành.	
+Cột Tháp Máu	Cột Tháp Máu tăng 2 Tấn Công cho tướng khi thủ thành.	
+		
+		
+		
+Thực Vật Ăn Thịt	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và tăng 10 Tấn Công, 10 Phòng Thủ cho tướng ở tiền đồn khi thủ thành."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 gỗ và 1 đá mỗi ngày.	
+Nhà Buôn Đồ	"Với một lượng phí không đáng kể, bạn có thể mua đồ từ Nhà Buôn Đồ."	
+Khu Vườn Sự Sống	Tăng 10 Pixie mỗi tuần.	
+Khu Vườn Sự Sống	Tăng 10 Spirite mỗi tuần.	
+Xưởng Thuyền	Xưởng Thuyền cho phép bạn mua thuyền.	
+Trường Học Phép Thuật	"Ở Trường Học Phép Thuật, bạn có thể trả tiền để học một hoặc cả 4 trường phép thuật."	
+		
+		
+		
+		
+Hào Quang Borealias	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và cung cấp toàn bộ phép thuật vào Nhà Phép."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp 1 thủy ngân mỗi ngày.	
+Nhà Buôn Đồ	"Với một lượng phí không đáng kể, bạn có thể mua đồ từ Nhà Buôn Đồ."	
+Nhà Cung Cấp Quân Cấp 1	Công trình này tăng số lượng quân cấp 1 sau một tuần.	
+Nhà Cung Cấp Quân Cấp 2	Công trình này tăng số lượng quân cấp 2 sau một tuần.	
+Xưởng Thuyền	Xưởng Thuyền cho phép bạn mua thuyền.	
+		
+		
+Nhà Cung Cấp Quân Cấp 3	Công trình này tăng số lượng quân cấp 3 sau một tuần.	
+Nhà Cung Cấp Quân Cấp 4	Công trình này tăng số lượng quân cấp 4 sau một tuần.	
+Nhà Cung Cấp Quân Cấp 5	Công trình này tăng số lượng quân cấp 5 sau một tuần.	
+Thánh Vật	"Tăng 50% số lượng quân có được sau một tuần, cung cấp cho vương quốc của bạn 5000 vàng mỗi ngày và mỗi thành sẽ có thêm một sự đặc biệt riêng."	
+Hầm Tài Nguyên	Hầm Tài Nguyên cung cấp cho bạn thêm tài nguyên mỗi ngày.	

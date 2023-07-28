@@ -1,0 +1,375 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+gStatDesc
+"{Tấn Công}
+
+Tăng sát thương cho quân mà tướng của bạn ra lệnh trong trận đấu."
+"{Phòng Thủ}
+
+Giảm sát thương cho quân mà tướng của bạn chỉ huy trong trận đấu."
+"{Lực Phép}
+
+Tăng sức mạnh của phép thuật và duy trì phép thuật lâu dài hơn."
+"{Kiến Thức}
+
+Tăng năng lượng cho tướng. Một điểm kiến thức tăng 10 năng lượng."
+gLuckText
+Nguyền rủa
+Xui xẻo
+Đen đủi
+Bình thường
+Tốt
+Tuyệt quá
+Trời ban phước
+gMoraleText
+Phản bội
+Sợ hãi
+Nhút nhát
+Bình thường
+Hăng hái
+Hăng máu
+Rất hăng máu
+gOwnedByColor
+Đỏ đã chiếm được
+Xanh đã chiếm được
+Nâu đã chiếm được
+Xanh lá đã chiếm được
+Cam đã chiếm được
+Tím đã chiếm được
+Xanh nhạt đã chiếm được
+Hồng đã chiếm được
+gMonthNames
+Grasshopper
+Ant
+Ladybug
+Spider
+Butterfly
+Bumblebee
+Locust
+Earthworm
+Hornet
+Beetle
+gWeekNames
+Squirrel
+Rabbit
+Gopher
+Badger
+Rat
+Eagle
+Weasel
+Raven
+Mongoose
+Dog
+Aardvark
+Lizard
+Tortoise
+Hedgehog
+Condor
+cLuckInfo
+"{May Mắn Cao}
+
+Quân của bạn sẽ có lúc được nhân đôi sát thương trong trận đấu."
+"{May Mắn Bình Thường}
+
+Quân của bạn sẽ không bị ảnh hưởng trong trận đấu."
+"{Không May Mắn}
+
+Quân của bạn đôi khi sẽ bị giảm một nửa sát thương trong trận đấu."
+"%s
+
+
+{Hiện tại:}"
+"
+Still Eye of the Dragon +1"
+"
+Clover of Fortune +1"
+"
+Cards of Prophecy +1"
+"
+Ladybird of Luck +1"
+"
+Hồ Thiên Nga đã đi qua +2"
+"
+Biểu Tượng May Mắn đã đi qua +1"
+"
+Suối May Mắn đã đi qua %s"
+"
+Kim Tự Tháp đã đi qua -2"
+"
+Vòng Nấm Tiên đã đi qua +1"
+"
+Mỹ Nhân Ngư đã đi qua +1"
+"
+Cờ Tụ Hội đã đi qua +1"
+"
+May mắn Sơ cấp +1"
+"
+May mắn Thứ cấp +2"
+"
+May mắn Cao cấp +3"
+"
+Bình thường"
+"
+-%d tạm thời đến hết trận đấu sau"
+"
++%d tạm thời đến hết trận đấu sau"
+"
+Pendant of Courage +3"
+"
+Không có may mắn trên vùng đất nguyền rủa"
+"
+%s cản trở mọi sự may mắn"
+"
+Quân của các thành trung lập ở trên Cánh Đồng Cỏ Ba Lá +2"
+cMoraleInfo
+"{Nhuệ Khí Cao}
+
+Nhuệ khí cao có thể tăng thêm lượt đi cho quân của bạn trong trận đấu."
+"{Nhuệ Khí Bình Thường}
+
+Quân của bạn sẽ không được tăng lượt hay bị mất lượt."
+"{Nhuệ Khí Thấp}
+
+Nhuệ khí thấp có thể làm quân của bạn mất lượt trong trận đấu."
+"%s
+
+
+{Hiện tại:}"
+"
+Still Eye of the Dragon +1"
+"
+Badge of Courage +1"
+"
+Crest of Valor +1"
+"
+Glyph of Gallantry +1"
+"
+Biểu Tượng May Mắn đã đi qua +1"
+"
+Phao đã đi qua +1"
+"
+Ốc Đảo đã đi qua +1"
+"
+Đền Thờ đã đi qua +1"
+"
+Đền Thờ đã đi qua vào Chủ nhật +2"
+"
+Lăng Mộ đã đi qua -1"
+"
+Thuyền Đắm đã đi qua -1"
+"
+Đố Nước đã đi qua +1"
+"
+Tàu Vô Chủ đã đi qua -1"
+"
+Cờ Tụ Hội đã đi qua +1"
+"
+Suối Hồi Xuân đã đi qua +1"
+"
+Lăng Mộ Chiến Binh đã đi qua -3"
+"
+Lãnh đạo Sơ cấp +1"
+"
+Lãnh đạo Thứ cấp +2"
+"
+Lãnh đạo Cao cấp +3"
+"
+Bình thường"
+"
+-%d Tạm thời cho đến trận đánh tiếp theo"
+"
++%d Tạm thời cho đến trận đánh tiếp theo"
+"
+Pendant of Courage +3"
+"
+Nhuệ khí không ảnh hưởng trên vùng đất nguyền rủa"
+"
+Nhuệ khí không ảnh hưởng"
+"
+Quân của %d thành %d"
+"
+Tất cả quân ở cùng một thành +1"
+"
+Âm Binh trong đội quân -1"
+"
+%s trong đội quân +1"
+"
+Đối mặt với %s -1"
+"
+%s làm giảm nhuệ khí"
+"
+%s luôn có nhuệ khí cao"
+"
+Phép %+d"
+"
+Ở trên đất tự nhiên +1"
+"
+Quân ở các thành "Thiện" trên Vùng Đất Thánh +1"
+"
+Quân ở các thành "Ác" trên Vùng Đất Thánh -1"
+"
+Quân ở các thành "Ác" trên Sương Mù Ma Quỷ +1"
+"
+Quân ở các thành "Thiện" trên Sương Mù Ma Quỷ -1"
+cNewTurn
+"%s, bạn chỉ còn %d ngày để chiếm thành hoặc bạn sẽ bị trục xuất khỏi vùng đất này."
+"%s, đây là ngày cuồi cùng để bạn chiếm thành hoặc bạn sẽ bị trục xuất khỏi vùng đất này."
+"Các nhà chiêm tinh tuyên bố đây là tháng của %s.
+
+Tất cả các nhà quân sẽ được tăng thêm quân."
+"Các nhà chiêm tinh tuyên bố đây là tháng của %s.
+
+%s nhân đôi!
+
+Tất cả các nhà quân sẽ được tăng thêm quân."
+"Các nhà chiêm tinh tuyên bố đây là tháng THIỆT HẠI!
+
+Quân số trong nhà quân sẽ bị giảm một đi nửa."
+"Các nhà chiêm tinh tuyên bố đây là tuần của %s.
+
+Tất cả các nhà quân sẽ được tăng thêm quân."
+"Các nhà chiêm tinh tuyên bố đây là tuần của %s.
+
+%s +5 cho mỗi nhà quân trong thành.
+
+Tất cả các nhà quân sẽ được tăng thêm quân."
+"Các nhà chiêm tinh tuyên bố đây là tuần của %s.
+
+%s %+d.
+%s %+d.
+
+Tất cả các nhà quân sẽ được tăng thêm quân."
+cMapSize
+Nhỏ
+Bình thường
+Rộng
+Cực rộng
+cDifficulty
+Dễ
+Bình thường
+Khó
+Cực khó
+Chuyên nghiệp
+cDirections
+bắc
+đông bắc
+đông
+đông nam
+nam
+tây nam
+tây
+tây bắc
+trung tâm
+cRumourTerrainDescriptions
+bị lấp bùn.
+dưới một đống cát sa mạc.
+trên một đồng cỏ.
+trong một làn tuyết
+trong một vùng đầm lầy âm u.
+tại một vùng sa mạc nứt nẻ.
+trong một hang động dưới lòng đất
+bị chôn vùi trong dòng dung nham khô khốc.
+trong những khe sâu tăm tối của đại dương.
+dưới một tảng đá.
+cPersonality
+Chiến binh
+Công nhân
+Nhà thám hiểm
+Người
+gArmySizeNames
+1-4
+1-4
+1-4
+5-9
+5-9
+5-9
+10-19
+10-19
+10-19
+20-49
+20-49
+20-49
+50-99
+50-99
+50-99
+100+
+100-249
+100-249
+250+
+250-499
+250-499
+500+
+500-999
+500-999
+1000+
+1000+
+1000+
+const_wise_tree_price_text
+ (+1 cấp độ)
+ (+1 cấp độ với giá 2000 vàng)
+ (+1 cấp độ với 10 ngọc)
+NgườiMáy
+"Người
+hoặc Máy"
+Người
+Máy
+HandiText
+Công bằng
+Chấp ít
+Chấp nhiều
+AGRText
+Đồ
+Vàng
+Khoáng sản
+gTownTypeNames
+Neutral
+Castle
+Rampart
+Tower
+Inferno
+Necropolis
+Dungeon
+Stronghold
+Fortress
+Conflux
+NewLoadSave
+Chọn Một Bản Đồ 
+Tải Ván Đấu Đã Lưu
+Lưu Ván Đấu Hiện Tại
+Army Speed Names
+Bất động
+Siêu chậm
+Cực ký chậm
+Rất chậm
+Chậm
+Hơi chậm
+Hơi nhanh
+Nhanh
+Rất nhanh
+Cực ký nhanh
+Siêu nhanh
+Hơi nhanh
+Nhanh
+Rất nhanh
+Cực ký nhanh
+Siêu nhanh
+Hơi nhanh
+Nhanh
+Rất nhanh
+Cực ký nhanh
+Siêu nhanh
+Town Size Names
+Làng
+Thị trấn
+Thành phố
+Thủ đô
+Moat Names
+Hào
+Bụi gai
+Địa lôi
+Dung nham
+Nghĩa trang
+Dầu sôi
+Chông
+Nhựa sôi
+Hào
+Insert all data before this line. Do not alter or delete this line.

@@ -1,0 +1,26 @@
+Tướng/Chỉ số
+Kỹ năng
+Đồ
+Thành
+Tướng ở tiền đồn
+Tướng đang ở thành
+"{Xem Tướng}
+
+Xem những tướng đang ở dưới sự chỉ đạo của bạn."
+"{Xem Thành}
+
+Xem những thành mà bạn đang có."
+"{Đồ Đang Dùng}
+
+Hiển thị những đồ mà tướng đang dùng."
+"{Đồ Linh Tinh}
+
+Hiển thị những đồ mà tướng không cần trang bị."
+"{Rương Đồ}
+
+Hiển thị những đồ ở trong rương của tướng."
+Xem tướng
+Xem thành
+Xem những đồ đã trang bị
+Xem những đồ linh tinh
+Xem rương đồ của tướng
