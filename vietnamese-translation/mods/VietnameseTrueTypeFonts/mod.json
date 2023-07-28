@@ -5,7 +5,8 @@
 	"author" : "",
 	"contact" : "https://github.com/bettergui/BeVietnamPro/tree/main",
 	"modType" : "Graphical",
-	"license" : "SIL Open Font License, Version 1.1",
+	"licenseName" : "SIL Open Font License, Version 1.1",
+	"licenseURL" : "https://scripts.sil.org/cms/scripts/page.php?id=OFL",
 	"depends" :
 	[
 		"vcmi"
