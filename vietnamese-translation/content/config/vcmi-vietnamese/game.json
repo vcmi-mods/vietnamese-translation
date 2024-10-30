@@ -5959,7 +5959,7 @@
 	"mapObject.core.creatureBank.dragonFlyHive.name" : "Dragon Fly Hive",
 	"mapObject.core.creatureBank.dwarvenTreasury.name" : "Dwarven Treasury",
 	"mapObject.core.creatureBank.griffinConservatory.name" : "Griffin Conservatory",
-	"mapObject.core.creatureBank.inpCache.name" : "Imp Cache",
+	"mapObject.core.creatureBank.impCache.name" : "Imp Cache",
 	"mapObject.core.creatureBank.medusaStore.name" : "Medusa Stores",
 	"mapObject.core.creatureBank.nagaBank.name" : "Naga Bank",
 	"mapObject.core.creatureGeneratorCommon.airConflux.name" : "Air Elemental Conflux",
