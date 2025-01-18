@@ -1,7 +1,7 @@
 {
 	"name" : "Vietnamese translation",
 	"description" : "Vietnamese translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"author" : "",
 	"contact" : "",
 	"language" : "vietnamese",
@@ -12,16 +12,22 @@
 	},
 	"changelog" : 
 	{ 
-		"1.0.1" : [ "convert to png" ],
-		"1.0.0" : [ "Initial release based on https://tinhte.vn/thread/heroes-3-tieng-viet-mot-huyen-thoai-song-mai-voi-thoi-gian.2873676/ and https://huongdanvachiase.com/game/series-heroes-3/tong-hop-cac-phien-ban-heroes-3-complete-wog-3-57-wog-3-58f-sod.html" ]
+		"1.0.2" : [
+		"Cập nhật và dịch thêm dữ liệu mới từ bản gốc",
+		"Sửa lại các báu vật, phép thuật và kỹ năng phụ bị dịch sai so với bản gốc",
+		"Sửa lại tên phép thuật bị sai khi xem kỹ năng đặc biệt của tướng Adelaide và Astral",
+		"Sửa lại tên của các cỗ máy chiến đấu (Xe Bắn Tên -> Máy Bắn Tên và Xe Bắn Đá -> Máy Bắn Đá)",
+		"Sửa lỗi chính tả và một số thay đổ khác trong bản dịch tiếng Việt" ],
+		"1.0.1" : [ "Chuyển định dạng ảnh sang PNG" ],
+		"1.0.0" : [ "Bản dịch đầu tiên dựa vào nguồn dữ liệu sau: https://becoisctn.blogspot.com/ và https://www.facebook.com/groups/Heroes3TiengViet" ]
 	},
 	"german" : {
 		"name" : "Vietnamesische Übersetzung",
-		"description" : "Vietnamesische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Vietnamesische Übersetzung von Heroes of Might and Magic III: Complete Edition"
 	},
 	"vietnamese" : {
-		"name" : "Bản dịch tiếng việt",
-		"description" : "Bản dịch tiếng Việt của Heroes of Might and Magic III: Complete Edition"	
+		"name" : "Bản dịch tiếng Việt",
+		"description" : "Bản dịch của Heroes of Might and Magic III: Complete Edition <p>Cập nhật và sửa lại bản dịch: <b>Nhóm Việt Hóa Bé Còi</b></p>"
 	},
 	"translations" : [
 		"config/vcmi-vietnamese/game.json",
