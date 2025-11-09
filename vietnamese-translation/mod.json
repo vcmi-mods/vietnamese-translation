@@ -1,8 +1,8 @@
 {
 	"name" : "Vietnamese translation",
 	"description" : "Vietnamese translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.2",
-	"author" : "",
+	"version" : "1.0.3",
+	"author" : "Hunter8x",
 	"contact" : "",
 	"language" : "vietnamese",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.3" : [ "Sửa lỗi chính tả và một số thay đổ khác trong bản dịch tiếng Việt" ],
 		"1.0.2" : [
 		"Cập nhật và dịch thêm dữ liệu mới từ bản gốc",
 		"Sửa lại các báu vật, phép thuật và kỹ năng phụ bị dịch sai so với bản gốc",
