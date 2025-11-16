@@ -1,0 +1,14 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Fabrice TIERCELIN",
+	"contact" : "https://github.com/Fabrice-TIERCELIN",
+	"language" : "vietnamese",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-vietnamese-ai/campaigns.json",
+		"config/vcmi-vietnamese-ai/maps.json",
+		"config/vcmi-vietnamese-ai/chronicles.json"
+	]
+}
