@@ -32,6 +32,7 @@
 		"description" : "Bản dịch của Heroes of Might and Magic III: Complete Edition <p>Cập nhật và sửa lại bản dịch: <b>Nhóm Việt Hóa Bé Còi</b></p>"
 	},
 	"translations" : [
+		"config/vcmi-vietnamese/chronicles.json",
 		"config/vcmi-vietnamese/game.json",
 		"config/vcmi-vietnamese/maps.json",
 		"config/vcmi-vietnamese/campaigns.json"
