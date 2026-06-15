@@ -1,7 +1,7 @@
 {
 	"name" : "Vietnamese translation",
 	"description" : "Vietnamese translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"author" : "Hunter8x",
 	"contact" : "",
 	"language" : "vietnamese",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.5" : [ "Minor changes and fixes" ],
 		"1.0.4" : [ "(Bump mod version to supercede VCMI 1.6 updated version)" ],
 		"1.0.3" : [ "Sửa lỗi chính tả và một số thay đổ khác trong bản dịch tiếng Việt" ],
 		"1.0.2" : [
@@ -29,10 +30,9 @@
 	},
 	"vietnamese" : {
 		"name" : "Bản dịch tiếng Việt",
-		"description" : "Bản dịch của Heroes of Might and Magic III: Complete Edition <p>Cập nhật và sửa lại bản dịch: <b>Nhóm Việt Hóa Bé Còi</b></p>"
+		"description" : "Bản dịch của Heroes of Might and Magic III: Complete Edition - Cập nhật và sửa lại bản dịch: <b>Nhóm Việt Hóa Bé Còi</b>"
 	},
 	"translations" : [
-		"config/vcmi-vietnamese/chronicles.json",
 		"config/vcmi-vietnamese/game.json",
 		"config/vcmi-vietnamese/maps.json",
 		"config/vcmi-vietnamese/campaigns.json"
