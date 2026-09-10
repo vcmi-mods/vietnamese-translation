@@ -1,0 +1,12 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by GLM 5.3",
+	"version" : "1.0",
+	"author" : "GLM 5.3",
+	"contact" : "",
+	"language" : "vietnamese",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-vietnamese-ai/campaigns.json"
+	]
+}
