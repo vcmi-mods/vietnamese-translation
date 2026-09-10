@@ -7,6 +7,9 @@
 	"language" : "vietnamese",
 	"modType" : "Translation",
 	"translations" : [
-		"config/vcmi-vietnamese-ai/campaigns.json"
+		"config/vcmi-vietnamese-ai/campaigns.json",
+		"config/vcmi-vietnamese-ai/chronicles.json",
+		"config/vcmi-vietnamese-ai/game.json",
+		"config/vcmi-vietnamese-ai/maps.json"
 	]
 }
